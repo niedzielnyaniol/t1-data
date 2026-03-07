@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-07T14:30:34.450104",
+    "last_updated": "2026-03-07T14:58:31.446207",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.74"
@@ -112,14 +112,14 @@
       "ctl": 59.67,
       "atl": 61.64,
       "tsb": -1.97,
-      "ramp_rate": 2.61,
-      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
+      "ramp_rate": -1.1,
+      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
-      "eftp": 279.7,
-      "w_prime": 23971,
-      "w_prime_kj": 24.0,
-      "p_max": 1166,
+      "eftp": 279.4,
+      "w_prime": 23947,
+      "w_prime_kj": 23.9,
+      "p_max": 1165,
       "vo2max": null,
       "sports": {
         "cycling": {
@@ -281,17 +281,16 @@
         "note": "Compares 7d vs 28d Seiler TID to detect distribution shifts. pi_delta positive = more polarized acutely."
       }
     },
-    "consistency_index": 0.8,
+    "consistency_index": 1.0,
     "consistency_details": {
-      "planned_days": 5,
+      "planned_days": 4,
       "completed_days": 5,
       "matched_days": 4,
       "planned_dates": [
         "2026-03-01",
         "2026-03-04",
         "2026-03-05",
-        "2026-03-06",
-        "2026-03-07"
+        "2026-03-06"
       ],
       "completed_dates": [
         "2026-03-01",
@@ -313,15 +312,15 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 1.54,
-          "hard_sessions_planned": 2,
+          "planned_tss_delta": 0.54,
+          "hard_sessions_planned": 1,
           "race_proximity": null,
           "next_week_load": 1.05,
-          "plan_coverage_current_week": 0.4,
+          "plan_coverage_current_week": 0.2,
           "plan_coverage_next_week": 1.0
         },
         "data_quality": "good",
-        "stream_agreement": null
+        "stream_agreement": false
       },
       "previous_phase": "Build",
       "phase_duration_weeks": 4,
@@ -345,19 +344,19 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 279.7,
-    "w_prime": 23971,
-    "w_prime_kj": 24.0,
-    "p_max": 1166,
+    "eftp": 279.4,
+    "w_prime": 23947,
+    "w_prime_kj": 23.9,
+    "p_max": 1165,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-07T14:30:34.449285",
+    "calculation_timestamp": "2026-03-07T14:58:31.445391",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
       "activities_7d": 5,
       "activities_28d": 21,
-      "planned_workouts_7d": 5,
+      "planned_workouts_7d": 4,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -747,17 +746,6 @@
   ],
   "planned_workouts": [
     {
-      "id": 96303531,
-      "date": "2026-03-07",
-      "name": "SubLT-W02 Basic Sweet Spot Ride 3",
-      "type": "WORKOUT",
-      "planned_tss": 128,
-      "duration_hours": 1.98,
-      "duration_formatted": "1h59m",
-      "workout_summary": "15m | 5\u00d71m @228W / 1m rec | 4m | 2\u00d730m / 10m rec | 10m",
-      "description": "Warmup\n- 15m Z2 69-83%HR 95-105 rpm\n\nMain set\n5x\n- 1m <80% <90%HR +110rpm\n- 1m Z1-Z2\n\n- 4m Z2\n\n2x\n- 30m SS 95-98%HR 90-100rpm\n- 10m Z1-Z2\n\nCooldown\n- 10m Z2 69-83%HR\n\nAfter warming up, begin a set of five 1-minute fast pedaling intervals, keeping your cadence over 110 rpm, with a 1-minute recovery between efforts. Next do two 20-minute Sweet Spot intervals, with a rest interval of 5 minutes. Finish with a nice, but not hard, 45-minute Tempo ride. Cool down.\n\nAllen, Hunter; Coggan, Andrew R.; McGregor, Stephen. Training and Racing with a Power Meter: Third Edition (pp. 490-491). VeloPress. Kindle Edition."
-    },
-    {
       "id": 93815421,
       "date": "2026-03-08",
       "name": "END-W06 Endurance with Cadence Drills",
@@ -835,9 +823,9 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 7,
-    "success": 5,
-    "patternA": 5,
+    "attempted": 6,
+    "success": 4,
+    "patternA": 4,
     "patternB": 0,
     "bail_no_workout_doc": 0,
     "bail_no_match": 2
