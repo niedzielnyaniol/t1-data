@@ -151,10 +151,10 @@ Previous Sports: Strength training/Gym.
 
 | Year | Phase | FTP Target | W/kg Target | Key Metrics |
 |------|-------|------------|-------------|-------------|
-| 2026 (Mar - poł. Kwietnia) | Base & Threshold | 295 W (przy 77 kg) | 3.83 W/kg | Zdolność do jazdy 3x20 min SS (TTE = 60 min) LUB 2x20 min Threshold (Z4) |
-| 2026 (poł. Kwi. - 18 Maja) | VO2Max & Early Peak (Przed urlopem) | 300 W (przy 76 kg) | 3.94 W/kg | 5 min all-out > 350 W. Nabicie wysokiego CTL (obciążenia) przed przerwą. |
+| 2026 (Mar - poł. Kwietnia) | Base & Threshold | 295 W (przy 77 kg) | 3.83 W/kg | - |
+| 2026 (poł. Kwi. - 18 Maja) | VO2Max & Early Peak (Przed urlopem) | 300 W (przy 76 kg) | 3.94 W/kg | Nabicie wysokiego CTL (obciążenia) przed przerwą. |
 | 2026 (19 Maja - 4 Czerwca)| URLOP (Forced Rest / Off-bike) | - | - | Odpoczynek. Trening uzupełniający (bieganie, ćwiczenia z masą ciała), jeśli to możliwe. |
-| 2026 (5 - 20 Czerwca) | Reaktywacja i Tapering (Pod wyścig) | 300+ W (przy 75 kg)| **4.0+ W/kg** | Szybkie pobudzenie układu nerwowego (krótkie interwały VO2Max/Anaerobic) bez kumulacji zmęczenia. |
+| 2026 (5 - 20 Czerwca) | Reaktywacja i Tapering (Pod wyścig) | 300+ W (przy 75 kg)| **4.0+ W/kg** | - |
 
 ---
 
