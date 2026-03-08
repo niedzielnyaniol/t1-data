@@ -66,7 +66,7 @@ Previous Sports: Strength training/Gym.
 
 ### Normal Weekly Schedule
 
-| Day | Primary Session | Duration | Secondary |
+| Day | Primary Session | Preferable Duration | Max duration (if needed) |
 |-----|-----------------|----------|-----------|
 | Sunday | [Workout type] | 1,5h | 2h |
 | Monday | [Workout type] | 0 | 1,5h |
@@ -75,16 +75,6 @@ Previous Sports: Strength training/Gym.
 | Thursday | [Workout type] | 1,5h | - |
 | Friday | [Workout type] | 1,5h | - |
 | Saturday | [Workout type] | 2h | 3h |
-
-### Session Details
-
-| Session Type | Target Power/HR | Duration | Purpose |
-|--------------|-----------------|----------|---------|
-| VO₂Max | [W or % FTP] | [Duration] | [Purpose] |
-| Endurance | [W or % FTP] | [Duration] | [Purpose] |
-| Sweetspot | [W or % FTP] | [Duration] | [Purpose] |
-| Long Ride | [W or % FTP] | [Duration] | [Purpose] |
-| Recovery | [W or % FTP] | [Duration] | [Purpose] |
 
 ### Recovery Protocol
 
@@ -102,14 +92,6 @@ Previous Sports: Strength training/Gym.
 | 3 | Moderate (manageable tiredness) |
 | 4 | Fatigued (reduced readiness, deload trigger) |
 | 5 | Exhausted (complete rest required) |
-
-### Performance Objectives
-
-| Year | Phase | Focus | Primary KPI |
-|------|-------|-------|-------------|
-| [Year] | [Phase name] | [Focus area] | [Target metrics] |
-| [Year] | [Phase name] | [Focus area] | [Target metrics] |
-| [Year] | [Phase name] | [Focus area] | [Target metrics] |
 
 ---
 
@@ -147,7 +129,9 @@ Previous Sports: Strength training/Gym.
 # 5. Nutrition / Fueling
 
 ### Training Fuel Recipe
-`Isostar Hydrate&Perform Isotonic Sport Drink + water` (35g CHO/bidon)
+- `Isostar Hydrate&Perform Isotonic Sport Drink + water` (35g CHO/bidon)
+- Galaretka owocowa energetyczna miks Aptonia (21g CHO/baton + 0,12g soli/baton)
+- Powerbar Power Gel jabłkowy 41 g (26g CHO/żel + 50mg caffeine/żel + 0,5g soli/żel)
 
 ### Fueling by Workout Type
 | Workout Type | Duration | CHO Target | Setup |
@@ -167,7 +151,7 @@ Previous Sports: Strength training/Gym.
 
 | Year | Phase | FTP Target | W/kg Target | Key Metrics |
 |------|-------|------------|-------------|-------------|
-| 2026 (Mar - poł. Kwietnia) | Base & Threshold | 295 W (przy 77 kg) | 3.83 W/kg | Zdolność do jazdy 2x20 min SS |
+| 2026 (Mar - poł. Kwietnia) | Base & Threshold | 295 W (przy 77 kg) | 3.83 W/kg | Zdolność do jazdy 3x20 min SS (TTE = 60 min) LUB 2x20 min Threshold (Z4) |
 | 2026 (poł. Kwi. - 18 Maja) | VO2Max & Early Peak (Przed urlopem) | 300 W (przy 76 kg) | 3.94 W/kg | 5 min all-out > 350 W. Nabicie wysokiego CTL (obciążenia) przed przerwą. |
 | 2026 (19 Maja - 4 Czerwca)| URLOP (Forced Rest / Off-bike) | - | - | Odpoczynek. Trening uzupełniający (bieganie, ćwiczenia z masą ciała), jeśli to możliwe. |
 | 2026 (5 - 20 Czerwca) | Reaktywacja i Tapering (Pod wyścig) | 300+ W (przy 75 kg)| **4.0+ W/kg** | Szybkie pobudzenie układu nerwowego (krótkie interwały VO2Max/Anaerobic) bez kumulacji zmęczenia. |
