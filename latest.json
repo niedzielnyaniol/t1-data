@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-08T19:48:28.162887",
+    "last_updated": "2026-03-08T20:34:32.305616",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.74"
@@ -298,10 +298,8 @@
     },
     "phase_detection": {
       "phase": "Build",
-      "confidence": "medium",
-      "reason_codes": [
-        "NO_PLANNED_WORKOUTS"
-      ],
+      "confidence": "high",
+      "reason_codes": [],
       "basis": {
         "stream_1": {
           "ctl_slope": 1.38,
@@ -312,10 +310,10 @@
         "stream_2": {
           "planned_tss_delta": null,
           "hard_sessions_planned": 0,
-          "race_proximity": null,
-          "next_week_load": null,
+          "race_proximity": 2,
+          "next_week_load": 0.36,
           "plan_coverage_current_week": 0.0,
-          "plan_coverage_next_week": 0.0
+          "plan_coverage_next_week": 0.6
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -326,9 +324,7 @@
       "dossier_agreement": null
     },
     "phase_detected": "Build",
-    "phase_triggers": [
-      "NO_PLANNED_WORKOUTS"
-    ],
+    "phase_triggers": [],
     "seasonal_context": "Late Base / Build",
     "benchmark_indoor": {
       "current_ftp": 275,
@@ -350,7 +346,7 @@
     "p_max": 1166,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 57.0,
-    "calculation_timestamp": "2026-03-08T19:48:28.162039",
+    "calculation_timestamp": "2026-03-08T20:34:32.304792",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -799,6 +795,39 @@
   ],
   "planned_workouts": [
     {
+      "id": 97251164,
+      "date": "2026-03-10",
+      "name": "CEL ITT Octopus loop",
+      "type": "RACE_C",
+      "planned_tss": null,
+      "duration_hours": 0.42,
+      "duration_formatted": "25m",
+      "workout_summary": null,
+      "description": ""
+    },
+    {
+      "id": 97253731,
+      "date": "2026-03-11",
+      "name": "- 90m 65%",
+      "type": "WORKOUT",
+      "planned_tss": 63,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
+      "workout_summary": null,
+      "description": "- 90m 65%"
+    },
+    {
+      "id": 97254200,
+      "date": "2026-03-14",
+      "name": "- 120m 70%",
+      "type": "WORKOUT",
+      "planned_tss": 98,
+      "duration_hours": 2.0,
+      "duration_formatted": "2h",
+      "workout_summary": null,
+      "description": "- 120m 70%"
+    },
+    {
       "id": 94001355,
       "date": "2026-03-24",
       "name": "TEST",
@@ -811,12 +840,12 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 0,
+    "attempted": 2,
     "success": 0,
     "patternA": 0,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 0
+    "bail_no_match": 2
   },
   "weekly_summary": {
     "total_training_hours": 8.5,
@@ -827,8 +856,26 @@
     "avg_resting_hr": 43.1
   },
   "race_calendar": {
-    "next_race": null,
-    "all_races": [],
+    "next_race": {
+      "name": "CEL ITT Octopus loop",
+      "date": "2026-03-10",
+      "category": "RACE_C",
+      "type": "Ride",
+      "days_until": 2,
+      "moving_time_seconds": 1500,
+      "distance_meters": 19000.0
+    },
+    "all_races": [
+      {
+        "name": "CEL ITT Octopus loop",
+        "date": "2026-03-10",
+        "category": "RACE_C",
+        "type": "Ride",
+        "days_until": 2,
+        "moving_time_seconds": 1500,
+        "distance_meters": 19000.0
+      }
+    ],
     "taper_alert": {
       "active": false
     },
