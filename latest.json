@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-08T09:15:24.428542",
+    "last_updated": "2026-03-08T09:53:17.444318",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.74"
@@ -102,14 +102,14 @@
       "ctl": 59.78,
       "atl": 61.05,
       "tsb": -1.27,
-      "ramp_rate": 0.44,
-      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
+      "ramp_rate": -0.69,
+      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
-      "eftp": 279.7,
-      "w_prime": 23971,
-      "w_prime_kj": 24.0,
-      "p_max": 1166,
+      "eftp": 279.4,
+      "w_prime": 23947,
+      "w_prime_kj": 23.9,
+      "p_max": 1165,
       "vo2max": null,
       "sports": {
         "cycling": {
@@ -271,16 +271,15 @@
         "note": "Compares 7d vs 28d Seiler TID to detect distribution shifts. pi_delta positive = more polarized acutely."
       }
     },
-    "consistency_index": 0.75,
+    "consistency_index": 1.0,
     "consistency_details": {
-      "planned_days": 4,
+      "planned_days": 3,
       "completed_days": 5,
       "matched_days": 3,
       "planned_dates": [
         "2026-03-04",
         "2026-03-05",
-        "2026-03-06",
-        "2026-03-08"
+        "2026-03-06"
       ],
       "completed_dates": [
         "2026-03-03",
@@ -292,8 +291,10 @@
     },
     "phase_detection": {
       "phase": "Build",
-      "confidence": "high",
-      "reason_codes": [],
+      "confidence": "medium",
+      "reason_codes": [
+        "NO_PLANNED_WORKOUTS"
+      ],
       "basis": {
         "stream_1": {
           "ctl_slope": 1.38,
@@ -302,12 +303,12 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 1.08,
-          "hard_sessions_planned": 1,
+          "planned_tss_delta": null,
+          "hard_sessions_planned": 0,
           "race_proximity": null,
-          "next_week_load": 1.05,
-          "plan_coverage_current_week": 0.2,
-          "plan_coverage_next_week": 1.0
+          "next_week_load": null,
+          "plan_coverage_current_week": 0.0,
+          "plan_coverage_next_week": 0.0
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -318,7 +319,9 @@
       "dossier_agreement": null
     },
     "phase_detected": "Build",
-    "phase_triggers": [],
+    "phase_triggers": [
+      "NO_PLANNED_WORKOUTS"
+    ],
     "seasonal_context": "Late Base / Build",
     "benchmark_indoor": {
       "current_ftp": 275,
@@ -334,19 +337,19 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 279.7,
-    "w_prime": 23971,
-    "w_prime_kj": 24.0,
-    "p_max": 1166,
+    "eftp": 279.4,
+    "w_prime": 23947,
+    "w_prime_kj": 23.9,
+    "p_max": 1165,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-08T09:15:24.427728",
+    "calculation_timestamp": "2026-03-08T09:53:17.443512",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
       "activities_7d": 5,
       "activities_28d": 21,
-      "planned_workouts_7d": 4,
+      "planned_workouts_7d": 3,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -736,72 +739,6 @@
   ],
   "planned_workouts": [
     {
-      "id": 93815421,
-      "date": "2026-03-08",
-      "name": "END-W06 Endurance with Cadence Drills",
-      "type": "WORKOUT",
-      "planned_tss": 69,
-      "duration_hours": 1.27,
-      "duration_formatted": "1h16m",
-      "workout_summary": "15m @186W | 6\u00d71m @256W / 1m rec | 10m @186W | 2\u00d75m @279W / 5m rec | 2\u00d71m @256W / 1m rec | 15m @186W",
-      "description": "Warmup\n- 15m 56-75% 69-83%HR 90-95 rpm\n\nMain set\n\nCadence drill 6x\n- 1m on <90% <85%HR 105-120 rpm\n- 1m off <56% <69%HR 85 rpm\n\n- 10m 56-75% 69-83%HR\n\nThreshold 2x\n- 5m 91-105% 95-105%HR 100rpm\n- 5m RI Z1\n\nCadence drill 2x\n- 1m on <90% <85%HR 105-120 rpm\n- 1m off <56% <69%HR 85 rpm\n\nCooldown\n- 15m 56-75% 69-83%HR\n\nCadence drills are intended to improve your pedaling. Don\u2019t worry about speed, power, or heart rate. Ultimately, you are hoping power and heart rate remain low at the higher cadence so you can become more efficient at harder efforts. Build cadence steadily to avoid fading too fast. Warm up with cadence in the 90\u201395 rpm range. Start the main set with six 1-minute \u201con,\u201d 1-minute \u201coff\u201d fast pedaling cadence efforts. Ride 10 minutes easy, and then do two 5-minute efforts, trying to get wattage to FTP and hold it there. RPE should be 5; keep cadence at 100 rpm. Rest for 5 minutes between intervals. Finish with two more 1-minute \u201con\u201d and 1-minute \u201coff\u201d cadence drills. Cool down.\n\nAllen, Hunter; Coggan, Andrew R.; McGregor, Stephen. Training and Racing with a Power Meter: Third Edition (p. 477). VeloPress. Kindle Edition."
-    },
-    {
-      "id": 93815423,
-      "date": "2026-03-11",
-      "name": "END-W01 (Endurance Recovery)",
-      "type": "WORKOUT",
-      "planned_tss": 63,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": null,
-      "description": "Warmup\n- 15m 56-75% 69-83%HR\n\nMain set\n- 45m <75% <83%HR 85-95 rpm (45min - 1hr)\n\nCooldown\n- 15m 56-75% 69-83%HR\n\n1. Warm up and ride at a nice, steady pace. Keep cadence high,\n2. Occasional hills might increase your power, but generally average between 56 and 75 percent of FTP."
-    },
-    {
-      "id": 93815424,
-      "date": "2026-03-12",
-      "name": "NP-W3 10-second Neuromuscular Power Bursts",
-      "type": "WORKOUT",
-      "planned_tss": 100,
-      "duration_hours": 1.53,
-      "duration_formatted": "1h31m40s",
-      "workout_summary": "15m @186W | 20\u00d72m55s @222W / 10s rec | 15m @186W",
-      "description": "NP-W3 Workout\n\n# Warm-up\n-15m 56-75% 69-83%HR\n\n# Tempo riding with bursts\n20x\n-2m55s 76-80% 84-88%HR\n-10s 180% 100+rpm\n\n# Cruise\n-Remaining time 56-75% 69-83%HR\n\n# Cooldown\n-15m 56-75% 69-83%HR\n\n---\nAnswer from Perplexity: pplx.ai/share\n\nAfter a standard warm-up, set a pace in the lower end of Level 3 (76\u201380 percent of FTP) and hold it steady for the next hour. Within this hour, do a 10-second, out-of-the-saddle burst every 3 minutes, trying to reach 180 percent of FTP wattage, and hold it there with no more than two gear changes, if any. Make sure your cadence stays high. Cruise the rest of the ride at below 80 percent of FTP.\n\nAllen, Hunter; Coggan, Andrew R.; McGregor, Stephen. Training and Racing with a Power Meter: Third Edition (p. 521). (Function). Kindle Edition."
-    },
-    {
-      "id": 93815425,
-      "date": "2026-03-13",
-      "name": "LT-W10 Lactate Threshold with Anaerobic Capacity Intervals and Cadence Drills",
-      "type": "WORKOUT",
-      "planned_tss": 139,
-      "duration_hours": 1.8,
-      "duration_formatted": "1h48m",
-      "workout_summary": "15m @186W | 3\u00d71m @289W / 1m rec | 4\u00d710m @289W / 5m rec | 4\u00d71m @399W / 2m rec | 15m @186W",
-      "description": "LT-W10 Workout\n\n# Warm-up\n-15m 56-75% 69-83%HR\n\n# Fast pedaling\n3x\n-1m 100-103% 110+rpm\n-1m Z1\n\n# FTP intervals 5-10m Z1\n4x\n-10m 100-103% 100-105%HR\n-5m Z1\n\n# All-out efforts\n4x\n-1m >140% >105%HR\n-2m Z1\n\n# Cooldown\n-15m 56-75% 69-83%HR\n\nWarm up for 15 minutes in Level 2. Begin fast pedaling intervals with the goal of pedaling at 110+ rpm for the entire minute. Don\u2019t worry about power or heart rate. Recover for 1 minute between intervals. Then push hard and increase your cadence by 5 rpm for four 10-minute intervals at 100 percent of FTP. Rest for 5\u201310 minutes between efforts. Finish with four 1-minute intervals. Attack at the beginning of each interval, pushing as hard as you can. Rest for 2 minutes between efforts. Finish the ride with a 15-minute cooldown.\n\nAllen, Hunter; Coggan, Andrew R.; McGregor, Stephen. Training and Racing with a Power Meter: Third Edition (p. 502). (Function). Kindle Edition."
-    },
-    {
-      "id": 93815426,
-      "date": "2026-03-14",
-      "name": "END-W01 (Endurance Recovery)",
-      "type": "WORKOUT",
-      "planned_tss": 63,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": null,
-      "description": "Warmup\n- 15m 56-75% 69-83%HR\n\nMain set\n- 45m <75% <83%HR 85-95 rpm (45min - 1hr)\n\nCooldown\n- 15m 56-75% 69-83%HR\n\n1. Warm up and ride at a nice, steady pace. Keep cadence high,\n2. Occasional hills might increase your power, but generally average between 56 and 75 percent of FTP."
-    },
-    {
-      "id": 93815427,
-      "date": "2026-03-15",
-      "name": "LT-W05 Threshold Intervals with Neuromuscular Power Bursts",
-      "type": "WORKOUT",
-      "planned_tss": 105,
-      "duration_hours": 1.47,
-      "duration_formatted": "1h28m20s",
-      "workout_summary": "15m @186W | 10m @289W | 10m @186W | 20m @292W | 10\u00d720s @384W / 2m rec | 10m @186W",
-      "description": "LT-W5 Workout\n\n# Warm-up\n-15m 56-75% 69-83%HR\n\n# Lactate Threshold\n-10m 98-105% 98-103%HR\n\n# Easy riding\n-10m 56-75% 69-83%HR\n\n# Threshold 20-30min\n-20m 100-105% 98-103%HR\n\n# Bursts (2-3m Z1)\n10x\n-20s >135% 100+rpm\n-2m Z1\n\n# Cooldown 10-15m\n-10m 56-75% 69-83%HR\n\nAfter a warm-up, do one 10-minute interval at Threshold, followed by 10 minutes of recovery. Then ride at Threshold for 20\u201330 minutes, followed by ten 20-second bursts. Ride at Endurance pace between the bursts. For the bursts, start out of the saddle and push your cadence to 100 rpm in all-out intervals\u2014hammer these. Rest 2\u20133 minutes between intervals. Cool down.\n\nAllen, Hunter; Coggan, Andrew R.; McGregor, Stephen. Training and Racing with a Power Meter: Third Edition (p. 499). (Function). Kindle Edition."
-    },
-    {
       "id": 94001355,
       "date": "2026-03-24",
       "name": "TEST",
@@ -814,12 +751,12 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 6,
-    "success": 4,
-    "patternA": 4,
+    "attempted": 0,
+    "success": 0,
+    "patternA": 0,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 2
+    "bail_no_match": 0
   },
   "weekly_summary": {
     "total_training_hours": 6.47,
