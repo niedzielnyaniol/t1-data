@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-10T09:55:39.307131",
+    "last_updated": "2026-03-10T10:52:04.055407",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.74"
@@ -307,15 +307,15 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 0.76,
-          "hard_sessions_planned": 2,
+          "planned_tss_delta": 1.03,
+          "hard_sessions_planned": 3,
           "race_proximity": 0,
           "next_week_load": 0.39,
-          "plan_coverage_current_week": 1.0,
-          "plan_coverage_next_week": 0.6
+          "plan_coverage_current_week": 1.2,
+          "plan_coverage_next_week": 0.8
         },
         "data_quality": "good",
-        "stream_agreement": false
+        "stream_agreement": null
       },
       "previous_phase": "Build",
       "phase_duration_weeks": 4,
@@ -345,7 +345,7 @@
     "p_max": 1165,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-10T09:55:39.306357",
+    "calculation_timestamp": "2026-03-10T10:52:04.054575",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -785,6 +785,17 @@
       "description": "- 1h30m 68%"
     },
     {
+      "id": 97630127,
+      "date": "2026-03-14",
+      "name": "R\u00f8nnestad",
+      "type": "WORKOUT",
+      "planned_tss": 104,
+      "duration_hours": 1.14,
+      "duration_formatted": "1h8m15s",
+      "workout_summary": "15m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 15m",
+      "description": "-15m z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n-15m z2"
+    },
+    {
       "id": 97254200,
       "date": "2026-03-15",
       "name": "- 120m 70%",
@@ -807,15 +818,15 @@
       "description": "Cel: Prze\u0142amanie sufitu tlenowego.\n\nDzia\u0142anie: 3-4 ci\u0119\u017ckie sesje interwa\u0142owe w tygodniu. Pomi\u0119dzy nimi ekstremalnie lekkie jazdy LIT dla aktywnej regeneracji, zachowuj\u0105c \u015bcis\u0142\u0105 polaryzacj\u0119 treningu."
     },
     {
-      "id": 97619578,
+      "id": 97630671,
       "date": "2026-03-17",
-      "name": "R\u00f8nnestad",
-      "type": "WORKOUT",
-      "planned_tss": 104,
-      "duration_hours": 1.14,
-      "duration_formatted": "1h8m15s",
-      "workout_summary": "15m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 15m",
-      "description": "-15m z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n-15m z2"
+      "name": "Hudayriyat Ascend (28.2km/234m)",
+      "type": "RACE_C",
+      "planned_tss": null,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "description": "Rodzaj wysi\u0142ku: Wysi\u0142ek stochastyczny (szarpany). Siedzenie w drafcie (Z2/Z3) przerywane mocnymi, kilkuminutowymi skokami na podjazdach i finiszu (Z5/Z6).Rola w planie: Wypada w pierwszym tygodniu bloku HIT. Traktujesz ten wy\u015bcig jako pe\u0142noprawn\u0105 sesj\u0119 HIT V02 w tym tygodniu."
     },
     {
       "id": 97619583,
@@ -829,25 +840,25 @@
       "description_preview": "- 1h30m 68%"
     },
     {
-      "id": 94001355,
-      "date": "2026-03-24",
-      "name": "TEST",
-      "type": "NOTE",
-      "planned_tss": null,
-      "duration_hours": 0.0,
-      "duration_formatted": "0s",
-      "workout_summary": null,
-      "description_preview": null
+      "id": 97619578,
+      "date": "2026-03-19",
+      "name": "R\u00f8nnestad",
+      "type": "WORKOUT",
+      "planned_tss": 104,
+      "duration_hours": 1.14,
+      "duration_formatted": "1h8m15s",
+      "workout_summary": "15m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 15m"
     },
     {
-      "id": 97619530,
+      "id": 97630860,
       "date": "2026-03-24",
-      "name": "TEST",
-      "type": "WORKOUT",
-      "planned_tss": 102,
-      "duration_hours": 1.23,
-      "duration_formatted": "1h14m",
-      "workout_summary": "15m @186W | 3\u00d71m @228W / 1m rec | 3m @193W | 5m @376W | 10m | 20m @307W | 15m @186W"
+      "name": "Alto del Aguila (13.1km / 349m) - Hill Climb",
+      "type": "RACE_C",
+      "planned_tss": null,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": null,
+      "description_preview": "Rodzaj wysi\u0142ku: Typowy wysi\u0142ek na Sweet Spot / Threshold (SS/Z4) z wej\u015bciem w strefy czerwone (Z5) na stromiznach.\nRola w planie: Wypada w drugim tygodniu bloku HIT. Zast\u0105pi jedn\u0105 z zaplanowanych ci\u0119\u017ckich sesji interwa\u0142owych."
     },
     {
       "id": 97619823,
@@ -872,6 +883,17 @@
       "description_preview": null
     },
     {
+      "id": 97630915,
+      "date": "2026-03-31",
+      "name": "Secret stage \ud83d\ude08 - Points Race",
+      "type": "RACE_C",
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "description_preview": null
+    },
+    {
       "id": 97617232,
       "date": "2026-04-06",
       "name": "LIT",
@@ -885,7 +907,7 @@
     {
       "id": 97617202,
       "date": "2026-04-20",
-      "name": "Blok MIT",
+      "name": "MIT",
       "type": "NOTE",
       "planned_tss": null,
       "duration_hours": 0.0,
@@ -899,7 +921,7 @@
     "success": 3,
     "patternA": 3,
     "patternB": 0,
-    "bail_no_workout_doc": 3,
+    "bail_no_workout_doc": 5,
     "bail_no_match": 5
   },
   "weekly_summary": {
@@ -929,6 +951,33 @@
         "days_until": 0,
         "moving_time_seconds": 1500,
         "distance_meters": 19000.0
+      },
+      {
+        "name": "Hudayriyat Ascend (28.2km/234m)",
+        "date": "2026-03-17",
+        "category": "RACE_C",
+        "type": "Ride",
+        "days_until": 7,
+        "moving_time_seconds": 2700,
+        "distance_meters": 28200.0
+      },
+      {
+        "name": "Alto del Aguila (13.1km / 349m) - Hill Climb",
+        "date": "2026-03-24",
+        "category": "RACE_C",
+        "type": "Ride",
+        "days_until": 14,
+        "moving_time_seconds": 1800,
+        "distance_meters": 13100.0
+      },
+      {
+        "name": "Secret stage \ud83d\ude08 - Points Race",
+        "date": "2026-03-31",
+        "category": "RACE_C",
+        "type": "Ride",
+        "days_until": 21,
+        "moving_time_seconds": null,
+        "distance_meters": null
       }
     ],
     "taper_alert": {
