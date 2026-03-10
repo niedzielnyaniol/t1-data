@@ -168,6 +168,15 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 
 **WAŻNE OGRANICZENIE:** Od 19 maja do 4 czerwca 2026 całkowity brak możliwości jazdy na rowerze. Wyścig docelowy (A) J-labs Gołcza Race: 20 czerwca 2026.
 
+### Scheduled Training Races (MyWhoosh, Priority C)
+Wtorkowe wyścigi w marcu są traktowane w 100% jako jednostki treningowe wplatane w bieżący makrocykl.
+* **10 Marzec:** Octopus Loop (13.9km / ITT / ok. 20 min). *Bodziec: Z4/Z5. Służy jako zastępstwo testu FTP w trakcie Deloadu.*
+* **17 Marzec:** Hudayriyat Ascend (28.2km / Scratch / ok. 45 min). *Bodziec: Stochastyczne Z5/Z6. Zastępuje sesję HIT w bloku VO2max.*
+* **24 Marzec:** Alto del Aguila (13.1km / Hill Climb / ok. 30 min). *Bodziec: SS/Z4 z wejściami w Z5. Zastępuje sesję HIT w bloku VO2max.*
+* **31 Marzec:** Secret stage (Points Race / ok. 45-60 min). *Bodziec: Szarpane powtarzalne sprinty. Wypada w Deloadzie – traktować ulgowo jako mocniejsze przewentylowanie płuc, aby nie zaburzyć regeneracji.*
+
+### Road Map to Target Event
+
 Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu.
 
 | Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
