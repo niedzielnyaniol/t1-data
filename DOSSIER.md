@@ -181,7 +181,7 @@ Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnym
 
 | Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
 |-------------|------------------|-------------------------|-------------------------|
-| **10 - 29 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (3 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
+| **9 - 29 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (3 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
 | **30 Mar - 5 Kwi** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Superkompensacja po bloku HIT. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
 | **6 - 19 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (2 tyg.) | Baza Z2 z wplecionymi sprintami (Z7) (zakaz jazd w Z3). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
 | **20 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Podnoszenie FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
