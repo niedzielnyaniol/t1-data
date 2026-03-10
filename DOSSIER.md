@@ -164,24 +164,24 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 
 # 6. Long-Term Performance Roadmap
 
-**WAŻNE OGRANICZENIE:** Od 19 maja do 4 czerwca 2026 całkowity brak możliwości jazdy na rowerze. Wyścig docelowy (A) J-labs Gołcza Race: 20 czerwca 2026.
+**WAŻNE OGRANICZENIE:** 26-29 marca wyjazd do Szwajcarii (brak treningu). Od 19 maja do 4 czerwca 2026 całkowity brak możliwości jazdy na rowerze. Wyścig docelowy (A) J-labs Gołcza Race: 20 czerwca 2026.
 
 ### Scheduled Training Races (MyWhoosh, Priority C)
 Wtorkowe wyścigi w marcu są traktowane w 100% jako jednostki treningowe wplatane w bieżący makrocykl.
-* **10 Marzec:** Octopus Loop (13.9km / ITT / ok. 20 min). *Bodziec: Z4/Z5. Służy jako zastępstwo testu FTP w trakcie Deloadu.*
+* **10 Marzec:** Octopus Loop (13.9km / ITT / ok. 20 min). *Bodziec: Z4/Z5. Wypada w trakcie bloku HIT.*
 * **17 Marzec:** Hudayriyat Ascend (28.2km / Scratch / ok. 45 min). *Bodziec: Stochastyczne Z5/Z6. Zastępuje sesję HIT w bloku VO2max.*
-* **24 Marzec:** Alto del Aguila (13.1km / Hill Climb / ok. 30 min). *Bodziec: SS/Z4 z wejściami w Z5. Zastępuje sesję HIT w bloku VO2max.*
-* **31 Marzec:** Secret stage (Points Race / ok. 45-60 min). *Bodziec: Szarpane powtarzalne sprinty. Wypada w Deloadzie – traktować ulgowo jako mocniejsze przewentylowanie płuc, aby nie zaburzyć regeneracji.*
+* **24 Marzec:** Alto del Aguila (13.1km / Hill Climb / ok. 30 min). *Bodziec: SS/Z4 z wejściami w Z5. Zastępuje sesję HIT przed wylotem do Szwajcarii.*
+* **31 Marzec:** Secret stage (Points Race / ok. 45-60 min). *Bodziec: Szarpane powtarzalne sprinty. Wypada na początku bloku LIT – traktować jako aktywację sprinterską wpisaną w blok objętości.*
 
 ### Road Map to Target Event
 
-Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu.
+Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu. Usunięto tradycyjny Deload po bloku HIT – zastępuje go wyjazd do Szwajcarii. Wydłużono w zamian blok LIT, aby domknąć kalendarz do głównych startów.
 
 | Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
 |-------------|------------------|-------------------------|-------------------------|
-| **9 - 29 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (3 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
-| **30 Mar - 5 Kwi** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Superkompensacja po bloku HIT. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
-| **6 - 19 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (2 tyg.) | Baza Z2 z wplecionymi sprintami (Z7) (zakaz jazd w Z3). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
+| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
+| **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO (4 dni) | Wymuszona regeneracja i przerwa od roweru. Zastępuje zaplanowany Deload i wywołuje superkompensację. |
+| **30 Mar - 19 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (3 tyg.) | Przyspieszony start fazy objętości. Baza Z2 z wplecionymi sprintami (Z7) (zakaz jazd w Z3). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
 | **20 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Podnoszenie FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
 | **4 - 10 Maj** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Krótki odpoczynek przed uderzeniem. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
 | **11 - 18 Maj** | **Blok HIT (Overreaching)** | EKSTREMALNE (8 dni) | Celowe przetrenowanie tuż przed wylotem. **[Na cały blok 8-dniowy:]** 4-5 morderczych sesji HIT (Z5). |
