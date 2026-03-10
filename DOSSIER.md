@@ -119,28 +119,26 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 ### Current Power Zones
 
 ### Current Fitness Markers
-- **FTP (Outdoor):** 285 W
-- **FTP (Indoor):** 275 W
+- **FTP (Outdoor):** 300 W
+- **FTP (Indoor):** 288 W
 - **Max HR:** 195 bpm
 - **Threshold HR (LTHR):** 181 bpm
 - **RHR:** 43 bpm
 
-### Current Power Zones (Based on Outdoor FTP 285W)
-| Zone | % of FTP | Power (W) | Notes |
-|------|----------|-----------|-------|
-| Z1 | 0–55% | 0 - 156 W | Active Recovery |
-| Z2 | 56–75% | 157 - 213 W | Endurance (Base) |
-| Z3 | 76–90% | 214 - 256 W | Tempo (Całkowicie unikać w blokach LIT i MIT) |
-| Z4 | 91–105% | 257 - 299 W | Threshold (Próg) |
-| Z5 | 106–120% | 300 - 342 W | VO₂max |
-| Z6 | 121–150% | 343 - 427 W | Anaerobic |
-| Z7 | 151%+ | 428W + | Sprint |
-| SS | 84–97% | 239 - 276 W | Sweetspot |
-*(Dla treningów Indoor odejmujemy ok. 10W od widełek)*
+### Current Power Zones (Based on indoor measurement)
+| Zone | % of FTP |  Notes |
+|------|----------|-------|
+| Z1 | 0–55% | Active Recovery |
+| Z2 | 56–75% | Endurance (Base) |
+| Z3 | 76–90% | Tempo (Całkowicie unikać w blokach LIT i MIT) |
+| Z4 | 91–105% | Threshold (Próg) |
+| Z5 | 106–120% | VO₂max |
+| Z6 | 121–150% | Anaerobic |
+| Z7 | 151%+ | Sprint |
+| SS | 84–97% | Sweetspot |
 
 ### Weight Tracking
 
-**Protocol:** [Frequency, conditions]  
 **Adjustment Control:** Weight adjustments only permitted during readiness-positive periods (DI ≥ 0.95, HR drift ≤ 3%, RI ≥ 0.8)
 
 ---
