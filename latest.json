@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-10T20:08:46.612610",
+    "last_updated": "2026-03-10T20:47:34.976573",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.78"
@@ -350,7 +350,7 @@
     "p_max": 1166,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 57.0,
-    "calculation_timestamp": "2026-03-10T20:08:46.611745",
+    "calculation_timestamp": "2026-03-10T20:47:34.975703",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -394,8 +394,8 @@
       "efficiency_factor": 1.6073619,
       "hrrc": null,
       "elevation_m": null,
-      "feel": null,
-      "rpe": null,
+      "feel": 2,
+      "rpe": 9,
       "zone_distribution": {
         "hr_zones": {
           "z1_time": 861,
@@ -828,7 +828,7 @@
       "planned_tss": 98,
       "duration_hours": 1.37,
       "duration_formatted": "1h22m",
-      "workout_summary": "8m | 3\u00d71m @315W / 1m rec | 5m | 4\u00d76m @324W / 6m rec | 15m",
+      "workout_summary": "8m | 3\u00d71m @302W / 1m rec | 5m | 4\u00d76m @311W / 6m rec | 15m",
       "description": "warmup\n\n- 8m Z2\n\n3x\n- 1m 105%\n- 1m Z2\n\n-5m Z2\n\nMain set\n4x\n- 6m 108% of FTP\n- 6m Z1\n\nCool down\n- 15m Z2"
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": 97732000,
       "date": "2026-03-26",
-      "name": "Szwajcaria",
+      "name": "\ud83c\udde8\ud83c\udded",
       "type": "HOLIDAY",
       "planned_tss": null,
       "duration_hours": 0.0,
