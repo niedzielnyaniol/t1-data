@@ -66,11 +66,11 @@ Previous Sports: Strength training/Gym.
 **Frequency:** 5-6 days/week.
 
 ### Block Periodization Templates
-Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w zależności od trwającego bloku, zachowując zasadę silnej polaryzacji.
+Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w zależności od trwającego bloku, zachowując zasadę silnej polaryzacji. Więcej info w pliku `Block-periodisation.pdf`
 
 **Szablon A: Blok LIT (Baza / Objętość) & Deload (Regeneracja)**
 * **Cel:** Adaptacje peryferyjne (LIT) lub superkompensacja (Deload).
-* **Struktura:** **4-5 sesji w tygodniu** to wyłącznie jazdy Z1/Z2. **Całkowity zakaz wchodzenia w Z3 (Tempo)**. W **1-2 sesjach w tygodniu** wplatamy krótkie sprinty (np. 3x30s w Z7) dla aktywacji mięśni. 
+* **Struktura:** **4-5 sesji w tygodniu** to wyłącznie jazdy Z1/Z2. **Całkowity zakaz wchodzenia w Z3 (Tempo)**. W **1-2 sesjach w tygodniu** wplatamy krótkie sprinty (np. 3x30s w Z7 wiecej info w `The LIT with sprints.pdf`) dla aktywacji mięśni. 
 * **Bodziec podtrzymujący:** **1 krótka sesja HIT (Z5) w tygodniu**, aby podtrzymać adaptacje centralne i VO2max (tylko w bloku LIT). W tygodniu Deload brak jakichkolwiek akcentów.
 
 | Day | Primary Session | Duration (LIT) | Duration (Deload) |
@@ -100,7 +100,7 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 
 **Szablon C: Blok HIT (VO2max)**
 * **Cel:** Przełamanie sufitu wydolnościowego (adaptacje centralne).
-* **Struktura:** **3-4 sesje w tygodniu** to ekstremalnie ciężkie treningi Z5/Z6. Ścisła polaryzacja: pozostałe **1-2 sesje w tygodniu** to aktywna regeneracja (tylko Z1). Zero jazd w strefie SS/Z4.
+* **Struktura:** **2-3-4 sesje w tygodniu** to ekstremalnie ciężkie treningi Z5/Z6 (Seiler 4x8 / Ronnestad 40:20). Ścisła polaryzacja: pozostałe **1-2 sesje w tygodniu** to aktywna regeneracja (tylko Z1). Zero jazd w strefie SS/Z4.
 
 | Day | Primary Session | Preferable Duration | Max duration |
 |-----|-----------------|----------|-----------|
@@ -111,23 +111,6 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 | Friday | Recovery Z1 | 1h | 1.5h |
 | Saturday | HIT Interval (Z5/Z6) | 1.5h | 2h |
 | Sunday | Endurance Z1/Z2 | 1.5h | 2h |
-
-### Recovery Protocol
-
-**Recovery Triggers (Auto-Deload):**
-- HRV ↓ > 20% → [Response]
-- RHR ↑ ≥ 5 bpm → [Response]
-- Feel ≥ 4 → [Response]
-- Two+ triggers → [Response]
-
-**Feel Scale:**
-| Score | Meaning |
-|-------|---------|
-| 1 | Excellent (fully recovered) |
-| 2 | Good (normal fatigue) |
-| 3 | Moderate (manageable tiredness) |
-| 4 | Fatigued (reduced readiness, deload trigger) |
-| 5 | Exhausted (complete rest required) |
 
 ---
 
@@ -189,15 +172,14 @@ Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnym
 
 | Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
 |-------------|------------------|-------------------------|-------------------------|
-| **10 - 15 Mar** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Zrzucenie zmęczenia. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
-| **16 - 29 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 3-4 sesje HIT (Z5/Z6) + 1-2 sesje Z1. |
+| **16 - 29 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
 | **30 Mar - 5 Kwi** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Superkompensacja po bloku HIT. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
 | **6 - 19 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (2 tyg.) | Baza Z2 z wplecionymi sprintami (Z7) (zakaz jazd w Z3). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
-| **20 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Podnoszenie FTP. **[W tygodniu:]** 3-4 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 1-2 sesje Z1. |
+| **20 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Podnoszenie FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
 | **4 - 10 Maj** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Krótki odpoczynek przed uderzeniem. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
 | **11 - 18 Maj** | **Blok HIT (Overreaching)** | EKSTREMALNE (8 dni) | Celowe przetrenowanie tuż przed wylotem. **[Na cały blok 8-dniowy:]** 4-5 morderczych sesji HIT (Z5). |
 | **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po bloku z połowy maja. **[W tygodniu:]** 0 sesji na rowerze. |
-| **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 krótkie jazdy Z1/Z2 + sprinty 30s. |
+| **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 jazdy LIT + pod koniec tygodnia wplatane krótkie sprinty.	Szok po 16 dniach bez roweru. Żadnych ciężkich interwałów! Tylko budzenie mięśni i powrót czucia obrotu |
 | **8 - 12 Cze** | **Mini-Blok HIT/MIT** | Wysokie (5 dni) | Przywrócenie objętości osocza krwi. **[Na cały blok 5-dniowy:]** 2 mocne akcenty (Z4/Z5/Over-Under) + 2 sesje Z1. |
 | **13 - 19 Cze** | **Tapering (Szczytowanie)** | Bardzo Niskie (7 dni) | Obcięcie objętości do 4-5h. Krótkie wejścia w tempo wyścigowe. **[W tygodniu:]** 3-4 bardzo krótkie sesje Z1 z akcentami Z4/Z5. |
 | **20 Czerwca** | **WYŚCIG (Cel A)** | MAXIMUM | **Gołcza Race. Cel: 4.0+ W/kg na FTP test (~300W)** |
