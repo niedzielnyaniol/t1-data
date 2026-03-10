@@ -175,18 +175,18 @@ Wtorkowe wyścigi w marcu są traktowane w 100% jako jednostki treningowe wplata
 
 ### Road Map to Target Event
 
-Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu. Usunięto tradycyjny Deload po bloku HIT – zastępuje go wyjazd do Szwajcarii. Wydłużono w zamian blok LIT, aby domknąć kalendarz do głównych startów.
+Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu. Cechą wyróżniającą ten cykl jest **Ekstremalnie Wydłużony Blok Overreaching (14 dni)** przed głównym urlopem, mający na celu maksymalne wyeksponowanie organizmu na stres i wywołanie głębokiej superkompensacji w trakcie 16 dni bez roweru. 
 
 | Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
 |-------------|------------------|-------------------------|-------------------------|
 | **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
 | **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO (4 dni) | Wymuszona regeneracja i przerwa od roweru. Zastępuje zaplanowany Deload i wywołuje superkompensację. |
-| **30 Mar - 19 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (3 tyg.) | Przyspieszony start fazy objętości. Baza Z2 z wplecionymi sprintami (Z7) (zakaz jazd w Z3). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
-| **20 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Podnoszenie FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
-| **4 - 10 Maj** | **Deload (Regeneracja)** | Niskie (5-6h tyg.) | Krótki odpoczynek przed uderzeniem. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
-| **11 - 18 Maj** | **Blok HIT (Overreaching)** | EKSTREMALNE (8 dni) | Celowe przetrenowanie tuż przed wylotem. **[Na cały blok 8-dniowy:]** 4-5 morderczych sesji HIT (Z5). |
-| **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po bloku z połowy maja. **[W tygodniu:]** 0 sesji na rowerze. |
-| **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 jazdy LIT + pod koniec tygodnia wplatane krótkie sprinty.	Szok po 16 dniach bez roweru. Żadnych ciężkich interwałów! Tylko budzenie mięśni i powrót czucia obrotu |
+| **30 Mar - 12 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (2 tyg.) | Przyspieszony start fazy objętości. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
+| **13 Kwi - 26 Kwi** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Przyspieszony start fazy budowy FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
+| **27 Kwi - 4 Maj** | **Deload (Regeneracja)** | Niskie (8 dni) | Pełne zrzucenie zmęczenia. Krytyczne przygotowanie układu nerwowego i mięśniowego na 14-dniową rzeź. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
+| **5 - 18 Maj** | **Blok HIT (Overreaching)** | **EKSTREMALNE (14 dni)** | Wydłużony, morderczy blok celowego przetrenowania tuż przed wylotem. **[Na cały blok 14-dniowy:]** 6-8 ekstremalnych sesji HIT (Z5). Szukanie absolutnego limitu. |
+| **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po dwutygodniowym przetrenowaniu. |
+| **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 jazdy LIT + pod koniec tygodnia wplatane krótkie sprinty. Szok po 16 dniach bez roweru. Żadnych ciężkich interwałów! |
 | **8 - 12 Cze** | **Mini-Blok HIT/MIT** | Wysokie (5 dni) | Przywrócenie objętości osocza krwi. **[Na cały blok 5-dniowy:]** 2 mocne akcenty (Z4/Z5/Over-Under) + 2 sesje Z1. |
 | **13 - 19 Cze** | **Tapering (Szczytowanie)** | Bardzo Niskie (7 dni) | Obcięcie objętości do 4-5h. Krótkie wejścia w tempo wyścigowe. **[W tygodniu:]** 3-4 bardzo krótkie sesje Z1 z akcentami Z4/Z5. |
 | **20 Czerwca** | **WYŚCIG (Cel A)** | MAXIMUM | **Gołcza Race. Cel: 4.0+ W/kg na FTP test (~300W)** |
