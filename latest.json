@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-10T08:56:19.462849",
+    "last_updated": "2026-03-10T09:55:39.307131",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.74"
@@ -66,14 +66,14 @@
       "unavailable": 0
     },
     "phase_context": {
-      "phase": "Deload",
-      "phase_week": 0,
-      "amber_threshold": 2,
-      "modifier_applied": "default"
+      "phase": "Build",
+      "phase_week": 4,
+      "amber_threshold": 3,
+      "modifier_applied": "build_loosened"
     },
     "race_week_defers": false,
     "modification": null,
-    "reason": "P3 green light. 7 green, 0 amber (threshold 2), 0 red.",
+    "reason": "P3 green light. 7 green, 0 amber (threshold 3), 0 red.",
     "alarm_refs": []
   },
   "history": {
@@ -296,11 +296,9 @@
       ]
     },
     "phase_detection": {
-      "phase": "Deload",
-      "confidence": "medium",
-      "reason_codes": [
-        "PLAN_GAP_NEXT_WEEK"
-      ],
+      "phase": "Build",
+      "confidence": "high",
+      "reason_codes": [],
       "basis": {
         "stream_1": {
           "ctl_slope": 1.38,
@@ -309,25 +307,23 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 0.42,
-          "hard_sessions_planned": 1,
+          "planned_tss_delta": 0.76,
+          "hard_sessions_planned": 2,
           "race_proximity": 0,
-          "next_week_load": null,
-          "plan_coverage_current_week": 0.6,
-          "plan_coverage_next_week": 0.0
+          "next_week_load": 0.39,
+          "plan_coverage_current_week": 1.0,
+          "plan_coverage_next_week": 0.6
         },
         "data_quality": "good",
-        "stream_agreement": null
+        "stream_agreement": false
       },
       "previous_phase": "Build",
-      "phase_duration_weeks": 0,
+      "phase_duration_weeks": 4,
       "dossier_declared": null,
       "dossier_agreement": null
     },
-    "phase_detected": "Deload",
-    "phase_triggers": [
-      "PLAN_GAP_NEXT_WEEK"
-    ],
+    "phase_detected": "Build",
+    "phase_triggers": [],
     "seasonal_context": "Late Base / Build",
     "benchmark_indoor": {
       "current_ftp": 275,
@@ -349,7 +345,7 @@
     "p_max": 1165,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-10T08:56:19.462036",
+    "calculation_timestamp": "2026-03-10T09:55:39.306357",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -756,19 +752,41 @@
       "description": ""
     },
     {
-      "id": 97253731,
+      "id": 97619832,
       "date": "2026-03-11",
-      "name": "- 90m 65%",
+      "name": "Recovery",
       "type": "WORKOUT",
-      "planned_tss": 63,
+      "planned_tss": 25,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h",
+      "workout_summary": null,
+      "description": "-1h 50%"
+    },
+    {
+      "id": 97619262,
+      "date": "2026-03-12",
+      "name": "4x6 min @104-110% of FTP",
+      "type": "WORKOUT",
+      "planned_tss": 98,
+      "duration_hours": 1.37,
+      "duration_formatted": "1h22m",
+      "workout_summary": "8m | 3\u00d71m @299W / 1m rec | 5m | 4\u00d76m @307W / 6m rec | 15m",
+      "description": "warmup\n\n- 8m Z2\n\n3x\n- 1m 105%\n- 1m Z2\n\n-5m Z2\n\nMain set\n4x\n- 6m 108% of FTP\n- 6m Z1\n\nCool down\n- 15m Z2"
+    },
+    {
+      "id": 97619570,
+      "date": "2026-03-13",
+      "name": "Endurance 1,5h",
+      "type": "WORKOUT",
+      "planned_tss": 69,
       "duration_hours": 1.5,
       "duration_formatted": "1h30m",
       "workout_summary": null,
-      "description": "- 90m 65%"
+      "description": "- 1h30m 68%"
     },
     {
       "id": 97254200,
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "name": "- 120m 70%",
       "type": "WORKOUT",
       "planned_tss": 98,
@@ -776,6 +794,39 @@
       "duration_formatted": "2h",
       "workout_summary": null,
       "description": "- 120m 70%"
+    },
+    {
+      "id": 97617991,
+      "date": "2026-03-16",
+      "name": "HIT",
+      "type": "NOTE",
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "description": "Cel: Prze\u0142amanie sufitu tlenowego.\n\nDzia\u0142anie: 3-4 ci\u0119\u017ckie sesje interwa\u0142owe w tygodniu. Pomi\u0119dzy nimi ekstremalnie lekkie jazdy LIT dla aktywnej regeneracji, zachowuj\u0105c \u015bcis\u0142\u0105 polaryzacj\u0119 treningu."
+    },
+    {
+      "id": 97619578,
+      "date": "2026-03-17",
+      "name": "R\u00f8nnestad",
+      "type": "WORKOUT",
+      "planned_tss": 104,
+      "duration_hours": 1.14,
+      "duration_formatted": "1h8m15s",
+      "workout_summary": "15m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 13\u00d730s @370W / 15s rec | 3m | 15m",
+      "description": "-15m z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n13x\n-30s 120-140%\n-15s z3\n\n-3m z1-z2\n\n-15m z2"
+    },
+    {
+      "id": 97619583,
+      "date": "2026-03-18",
+      "name": "Endurance 1,5h",
+      "type": "WORKOUT",
+      "planned_tss": 69,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
+      "workout_summary": null,
+      "description_preview": "- 1h30m 68%"
     },
     {
       "id": 94001355,
@@ -787,15 +838,69 @@
       "duration_formatted": "0s",
       "workout_summary": null,
       "description_preview": null
+    },
+    {
+      "id": 97619530,
+      "date": "2026-03-24",
+      "name": "TEST",
+      "type": "WORKOUT",
+      "planned_tss": 102,
+      "duration_hours": 1.23,
+      "duration_formatted": "1h14m",
+      "workout_summary": "15m @186W | 3\u00d71m @228W / 1m rec | 3m @193W | 5m @376W | 10m | 20m @307W | 15m @186W"
+    },
+    {
+      "id": 97619823,
+      "date": "2026-03-25",
+      "name": "Recovery",
+      "type": "WORKOUT",
+      "planned_tss": 25,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h",
+      "workout_summary": null,
+      "description_preview": "-1h 50%"
+    },
+    {
+      "id": 97617881,
+      "date": "2026-03-30",
+      "name": "Deload",
+      "type": "NOTE",
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "description_preview": null
+    },
+    {
+      "id": 97617232,
+      "date": "2026-04-06",
+      "name": "LIT",
+      "type": "NOTE",
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "description_preview": "Cel: Budowanie wytrzyma\u0142o\u015bci i pobudzenie w\u0142\u00f3kien mi\u0119\u015bniowych bez zm\u0119czenia centralnego.\nDzia\u0142anie: Obj\u0119to\u015bciowe jazdy LIT z wplecionymi kr\u00f3tkimi, 30-sekundowymi sprintami. Jedna kr\u00f3tka sesja podtrzymuj\u0105ca HIT w tygodniu."
+    },
+    {
+      "id": 97617202,
+      "date": "2026-04-20",
+      "name": "Blok MIT",
+      "type": "NOTE",
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "description_preview": "Podniesienie mocy na d\u0142ugich odcinkach przed przerw\u0105.\nDzia\u0142anie: 3-4 sesje w strefie sweet spot / tempo (MIT)."
     }
   ],
   "workout_summary_stats": {
-    "attempted": 2,
-    "success": 0,
-    "patternA": 0,
+    "attempted": 8,
+    "success": 3,
+    "patternA": 3,
     "patternB": 0,
-    "bail_no_workout_doc": 0,
-    "bail_no_match": 2
+    "bail_no_workout_doc": 3,
+    "bail_no_match": 5
   },
   "weekly_summary": {
     "total_training_hours": 7.25,
