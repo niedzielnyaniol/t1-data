@@ -48,6 +48,13 @@ Previous Sports: Strength training/Gym.
 | Head Unit | Garmin Edge 830 |
 | HRM | Polar H10 |
 
+### Environment
+
+| Factor | Details |
+|--------|---------|
+| Indoor | Inside with Vacmaster Air Mover Cardio54 fan and window |
+| Outdoor | Kraków |
+
 ---
 
 ## 3. Training Schedule & Framework (Block Periodization Model)
