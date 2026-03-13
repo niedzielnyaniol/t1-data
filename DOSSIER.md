@@ -186,11 +186,12 @@ Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnym
 
 | Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
 |-------------|------------------|-------------------------|-------------------------|
-| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
+| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
 | **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO (4 dni) | Wymuszona regeneracja i przerwa od roweru. Zastępuje zaplanowany Deload i wywołuje superkompensację. |
-| **30 Mar - 12 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (2 tyg.) | Przyspieszony start fazy objętości. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
+| **30 Mar - 6 Kwi** | **Blok HIT** | Bardzo Wysokie (1 tyg.) | Kontynuacja bloku HIT sprzed urlopu. Po krótkim deload wkraczamy w ostatni tydzień przebijania sufitu |
+| **6 Kwi - 12 Kwi** | **Blok LIT** | Niskie (1 tyg.) | Superkompensacja po 3 tygodniach HIT. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
 | **13 Kwi - 26 Kwi** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Przyspieszony start fazy budowy FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
-| **27 Kwi - 4 Maj** | **Deload (Regeneracja)** | Niskie (8 dni) | Pełne zrzucenie zmęczenia. Krytyczne przygotowanie układu nerwowego i mięśniowego na 14-dniową rzeź. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
+| **27 Kwi - 4 Maj** | **Blok HIT** | Wysokie (8 dni) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
 | **5 - 18 Maj** | **Blok HIT (Overreaching)** | **EKSTREMALNE (14 dni)** | Wydłużony, morderczy blok celowego przetrenowania tuż przed wylotem. **[Na cały blok 14-dniowy:]** 6-8 ekstremalnych sesji HIT (Z5). Szukanie absolutnego limitu. |
 | **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po dwutygodniowym przetrenowaniu. |
 | **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 jazdy LIT + pod koniec tygodnia wplatane krótkie sprinty. Szok po 16 dniach bez roweru. Żadnych ciężkich interwałów! |
