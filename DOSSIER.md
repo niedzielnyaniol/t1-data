@@ -133,10 +133,20 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego ($VO_{2}m
 | Z7 | 151%+ | Sprint |
 | SS | 84–97% | Sweetspot |
 
+### Weight Tracking
+
+**Adjustment Control:** Weight adjustments only permitted during readiness-positive periods (DI ≥ 0.95, HR drift ≤ 3%, RI ≥ 0.8)
+
 ---
 
-## 5. Nutrition / Fueling
+# 5. Nutrition / Fueling
 
+### Training Fuel Recipe
+- `Isostar Hydrate&Perform Isotonic Sport Drink + water` (35g CHO/bidon)
+- Galaretka owocowa energetyczna miks Aptonia (21g CHO/baton + 0,12g soli/baton)
+- Powerbar Power Gel jabłkowy 41 g (26g CHO/żel + 50mg caffeine/żel + 0,5g soli/żel)
+
+### Fueling by Workout Type
 | Workout Type | Duration | CHO Target | Setup |
 |--------------|----------|------------|-------|
 | Recovery / Z1–Z2 | < 1.5 h | 0 - 30 g/h | Woda lub 1 bidon Isostar |
