@@ -7,7 +7,7 @@
 | Name | Maciek |
 | Age | 31 (born 28.07.1995) |
 | Height | 178[cm] |
-| Current Weight | 78,5[kg] |
+| Current Weight | 77[kg] |
 | Target Weight | 75[kg] |
 | Location | Kraków, Poland[City, Country] |
 
