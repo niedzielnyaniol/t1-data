@@ -141,20 +141,56 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego ($VO_{2}m
 |--------------|----------|------------|-------|
 | Recovery / Z1–Z2 | < 1.5 h | 0 - 30 g/h | Woda lub 1 bidon Isostar |
 | Endurance | 1.5–3 h | 40 - 60 g/h | 1-2 bidony Isostar/h + ew. banan |
-| Threshold / SS | 1–2 h | 60 - 80 g/h | 2 bidony Isostar/h |
-| Race / Event | 2–3 h | 80 - 90 g/h | Żele + Isostar |
+| Threshold / SS | 1–2 h | 60 - 80 g/h | 2 bidony Isostar/h (lub maltodekstryna) |
+| Race / Event | 2–3 h | 80 - 90 g/h | Żele węglowodanowe + Isostar |
+
+**Hydration Target:** 500-750 ml/hour.
 
 ---
 
-## 6. Long-Term Performance Roadmap
+# 6. Long-Term Performance Roadmap
 
-| Data (2026) | Faza / Typ Bloku | Obciążenie |
-|-------------|------------------|------------|
-| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie |
-| **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO |
-| **30 Mar - 12 Kwi** | **Blok LIT + Sprinty** | Średnie |
-| **13 Kwi - 26 Kwi** | **Blok MIT (Threshold)** | Wysokie |
-| **27 Kwi - 4 Maj** | **Deload (Regeneracja)** | Niskie |
-| **5 - 18 Maj** | **Blok HIT (Overreaching)** | EKSTREMALNE |
-| **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO |
-| **20 Czerwca** | **WYŚCIG (Cel A)** | **Gołcza Race** |
+**WAŻNE OGRANICZENIE:** 26-29 marca wyjazd do Szwajcarii (brak treningu). Od 19 maja do 4 czerwca 2026 całkowity brak możliwości jazdy na rowerze. Wyścig docelowy (A) J-labs Gołcza Race: 20 czerwca 2026.
+
+### Scheduled Training Races (MyWhoosh, Priority C)
+Wtorkowe wyścigi w marcu są traktowane w 100% jako jednostki treningowe wplatane w bieżący makrocykl.
+* **10 Marzec:** Octopus Loop (13.9km / ITT / ok. 20 min). *Bodziec: Z4/Z5. Wypada w trakcie bloku HIT.*
+* **17 Marzec:** Hudayriyat Ascend (28.2km / Scratch / ok. 45 min). *Bodziec: Stochastyczne Z5/Z6. Zastępuje sesję HIT w bloku VO2max.*
+* **24 Marzec:** Alto del Aguila (13.1km / Hill Climb / ok. 30 min). *Bodziec: SS/Z4 z wejściami w Z5. Zastępuje sesję HIT przed wylotem do Szwajcarii.*
+* **31 Marzec:** Secret stage (Points Race / ok. 45-60 min). *Bodziec: Szarpane powtarzalne sprinty. Wypada na początku bloku LIT – traktować jako aktywację sprinterską wpisaną w blok objętości.*
+
+### Road Map to Target Event
+
+Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu. Cechą wyróżniającą ten cykl jest **Ekstremalnie Wydłużony Blok Overreaching (14 dni)** przed głównym urlopem, mający na celu maksymalne wyeksponowanie organizmu na stres i wywołanie głębokiej superkompensacji w trakcie 16 dni bez roweru. 
+
+| Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
+|-------------|------------------|-------------------------|-------------------------|
+| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1. |
+| **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO (4 dni) | Wymuszona regeneracja i przerwa od roweru. Zastępuje zaplanowany Deload i wywołuje superkompensację. |
+| **30 Mar - 12 Kwi** | **Blok LIT + Sprinty** | Średnie / Objętość (2 tyg.) | Przyspieszony start fazy objętości. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
+| **13 Kwi - 26 Kwi** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Przyspieszony start fazy budowy FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
+| **27 Kwi - 4 Maj** | **Deload (Regeneracja)** | Niskie (8 dni) | Pełne zrzucenie zmęczenia. Krytyczne przygotowanie układu nerwowego i mięśniowego na 14-dniową rzeź. **[W tygodniu:]** 4-5 sesji Z1. Brak akcentów. |
+| **5 - 18 Maj** | **Blok HIT (Overreaching)** | **EKSTREMALNE (14 dni)** | Wydłużony, morderczy blok celowego przetrenowania tuż przed wylotem. **[Na cały blok 14-dniowy:]** 6-8 ekstremalnych sesji HIT (Z5). Szukanie absolutnego limitu. |
+| **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po dwutygodniowym przetrenowaniu. |
+| **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 jazdy LIT + pod koniec tygodnia wplatane krótkie sprinty. Szok po 16 dniach bez roweru. Żadnych ciężkich interwałów! |
+| **8 - 12 Cze** | **Mini-Blok HIT/MIT** | Wysokie (5 dni) | Przywrócenie objętości osocza krwi. **[Na cały blok 5-dniowy:]** 2 mocne akcenty (Z4/Z5/Over-Under) + 2 sesje Z1. |
+| **13 - 19 Cze** | **Tapering (Szczytowanie)** | Bardzo Niskie (7 dni) | Obcięcie objętości do 4-5h. Krótkie wejścia w tempo wyścigowe. **[W tygodniu:]** 3-4 bardzo krótkie sesje Z1 z akcentami Z4/Z5. |
+| **20 Czerwca** | **WYŚCIG (Cel A)** | MAXIMUM | **Gołcza Race. Cel: 4.0+ W/kg na FTP test (~300W)** |
+
+---
+
+# 7. Data Mirror Configuration
+
+### JSON Endpoint (for AI coaches)
+
+**URL:** `https://raw.githubusercontent.com/niedzielnyaniol/t1-data/refs/heads/main/latest.json`
+
+**Archive:** `https://github.com/niedzielnyaniol/t1-data/tree/main/archive`
+
+This endpoint provides synchronized Intervals.icu metrics for deterministic AI parsing. See **Section 11** for the full AI Coach Guidance Protocol.
+
+---
+
+## Protocol Reference
+This dossier follows the **Section 11 A/B AI Coach Guidance Protocol**.
+**Protocol Location:** `https://raw.githubusercontent.com/CrankAddict/section-11/refs/heads/main/SECTION_11.md`
