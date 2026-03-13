@@ -109,7 +109,7 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 * **Blok LIT:** 1 tydzień (jako deload) lub 2–4 tygodnie (budowa bazy).
 
 ### 3.4. Sesje Podtrzymujące (Maintenance Protocol)
-Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego ($VO_{2}max$) przy jednoczesnym uniknięciu nadmiernego zmęczenia.
+Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max przy jednoczesnym uniknięciu nadmiernego zmęczenia.
 
 * **Zasada 1:** Wysoka jakość, niska objętość (redukcja objętości interwałów o 50-70%).
 * **Zasada 2:** Intensywność musi być realnym uderzeniem w Z5 (powyżej progu beztlenowego).
