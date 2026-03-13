@@ -67,8 +67,11 @@ Previous Sports: Strength training/Gym.
 
 ### 3.2. Block Periodization Templates
 
+Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w zależności od trwającego bloku, zachowując zasadę silnej polaryzacji. Więcej info w pliku `Block-periodisation.pdf`
+
 **Szablon A: Blok LIT (Baza / Objętość) & Deload (Regeneracja)**
 * **Cel:** Adaptacje peryferyjne (LIT) lub superkompensacja (Deload).
+* **Struktura:** **4-5 sesji w tygodniu** to wyłącznie jazdy Z1/Z2. **Całkowity zakaz wchodzenia w Z3 (Tempo)**. W **1-2 sesjach w tygodniu** wplatamy krótkie sprinty (np. 3x30s w Z7 wiecej info w `The LIT with sprints.pdf`) dla aktywacji mięśni.
 * **Bodziec podtrzymujący:** 1 krótka sesja HIT (Z5) w tygodniu wg **Protokołu 3.4** (tylko w bloku LIT). W tygodniu Deload brak jakichkolwiek akcentów.
 
 | Day | Primary Session | Duration (LIT) | Duration (Deload) |
