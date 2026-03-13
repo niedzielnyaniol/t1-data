@@ -90,7 +90,7 @@ Previous Sports: Strength training/Gym.
 
 **Szablon C: Blok HIT (VO2max)**
 * **Cel:** Przełamanie sufitu wydolnościowego (adaptacje centralne).
-* **Struktura:** 2-4 sesje Z5/Z6 (Seiler 4x8 / Ronnestad 40:20). Zero jazd w strefie SS/Z4.
+* **Struktura:** **2-4 sesje w tygodniu** to ekstremalnie ciężkie treningi Z5/Z6 (Seiler 4x8 / Ronnestad 40:20). Ścisła polaryzacja: pozostałe **1-2 sesje w tygodniu** to aktywna regeneracja (Z1/Z2). Zero jazd w strefie SS/Z4.
 
 ### 3.3. Czas trwania bloków w sezonie
 * **Blok HIT:** 1–2 tygodnie (ekstremalne obciążenie centralne).
