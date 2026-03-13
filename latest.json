@@ -15,7 +15,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-13T08:17:10.187708",
+    "last_updated": "2026-03-13T08:18:11.273597",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.81"
@@ -327,7 +327,7 @@
           "planned_tss_delta": 1.79,
           "hard_sessions_planned": 1,
           "race_proximity": 4,
-          "next_week_load": 1.09,
+          "next_week_load": 1.12,
           "plan_coverage_current_week": 0.6,
           "plan_coverage_next_week": 1.2
         },
@@ -364,7 +364,7 @@
     "p_max": 1163,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-13T08:17:10.186825",
+    "calculation_timestamp": "2026-03-13T08:18:11.272700",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -837,14 +837,14 @@
       "description": "- 1h30m 68%"
     },
     {
-      "id": 98190772,
+      "id": 98198385,
       "date": "2026-03-21",
-      "name": "4x6 min @104-110% of FTP",
+      "name": "4x8 min @102-107% of FTP",
       "type": "WORKOUT",
-      "planned_tss": 93,
-      "duration_hours": 1.23,
-      "duration_formatted": "1h14m",
-      "workout_summary": "10m @172W | 4m @272W | 3m @150W | 2\u00d71m @308W / 1m rec | 3m @142W | 4\u00d76m @330W / 4m rec | 10m @120W"
+      "planned_tss": 105,
+      "duration_hours": 1.37,
+      "duration_formatted": "1h22m",
+      "workout_summary": "10m @172W | 4m @272W | 3m @150W | 2\u00d71m @308W / 1m rec | 3m @142W | 4\u00d78m @321W / 4m rec | 10m @120W"
     },
     {
       "id": 98190780,
