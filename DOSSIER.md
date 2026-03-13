@@ -86,6 +86,7 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 
 **Szablon B: Blok MIT (Sweet Spot / Threshold)**
 * **Cel:** Podnoszenie mocy na progu (FTP) i odporności na zmęczenie.
+* **Struktura:** **3-4 sesje w tygodniu** ukierunkowane WYŁĄCZNIE na SS/Z4 oraz Over-Under. Z3 (Tempo) całkowicie wyeliminowane. Dodatkowe **1-2 sesje w tygodniu** to wyłącznie regeneracyjne jazdy w Z2.
 * **Bodziec podtrzymujący:** 1 krótka sesja HIT (Z5) w tygodniu wg **Protokołu 3.4**.
 
 | Day | Primary Session | Preferable Duration | Max duration |
