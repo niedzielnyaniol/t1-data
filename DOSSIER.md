@@ -126,11 +126,8 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 ## 4. Performance Metrics
 
 ### Current Fitness Markers
-- **FTP (Outdoor):** 300 W
-- **FTP (Indoor):** 288 W
 - **Max HR:** 195 bpm
 - **Threshold HR (LTHR):** 181 bpm
-- **RHR:** 43 bpm
 
 ### Current Power Zones (Based on indoor measurement)
 | Zone | % of FTP | Notes |
