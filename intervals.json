@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T18:13:11.580857",
+  "generated_at": "2026-03-24T18:53:21.612248",
   "version": "3.86",
   "scan_hours": 72,
   "retention_days": 7,
@@ -1118,6 +1118,69 @@
           "avg_cadence": 87.0,
           "zone": 1,
           "training_load": 0.006013428
+        }
+      ]
+    },
+    {
+      "activity_id": "i134524685",
+      "date": "2026-03-24",
+      "type": "VirtualRide",
+      "name": "Alto del Aguila (13.1km / 349m) - Hill Climb",
+      "interval_summary": [
+        "1x 15m43s 205w",
+        "1x 26m26s 289w",
+        "1x 10m1s 163w"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "943s@205w95rpm",
+          "duration_secs": 943,
+          "avg_power": 205,
+          "max_power": 466,
+          "avg_hr": 148,
+          "max_hr": 172,
+          "avg_cadence": 95.11488,
+          "zone": 2,
+          "training_load": 14.871106,
+          "decoupling": 5.2179794
+        },
+        {
+          "type": "WORK",
+          "label": "1586s@289w92rpm",
+          "duration_secs": 1586,
+          "avg_power": 289,
+          "max_power": 568,
+          "avg_hr": 174,
+          "max_hr": 188,
+          "avg_cadence": 91.62169,
+          "zone": 4,
+          "training_load": 48.764183,
+          "decoupling": 2.5479846
+        },
+        {
+          "type": "WORK",
+          "label": "601s@163w86rpm",
+          "duration_secs": 601,
+          "avg_power": 163,
+          "max_power": 222,
+          "avg_hr": 142,
+          "max_hr": 177,
+          "avg_cadence": 86.386024,
+          "zone": 2,
+          "training_load": 5.5462976,
+          "decoupling": 3.379405
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_power": 92,
+          "max_power": 92,
+          "avg_hr": 134,
+          "max_hr": 134,
+          "avg_cadence": 76.0,
+          "zone": 1,
+          "training_load": 0.00592401
         }
       ]
     }
