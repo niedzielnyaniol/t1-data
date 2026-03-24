@@ -11,7 +11,7 @@
 | Target Weight | 75[kg] |
 | Location | Kraków, Poland[City, Country] |
 
-**Weigh-in Protocol:** Once weekly, Friday morning, after bathroom, before food/drink.
+**Weigh-in Protocol:** Once weekly, Tuesday morning, after bathroom, before food/drink.
 
 ### Sport Focus
 
