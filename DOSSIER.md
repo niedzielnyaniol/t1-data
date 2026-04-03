@@ -1,3 +1,6 @@
+# Athlete Performance Dossier & Training Protocol
+**Version:** 2.1 (Zaktualizowana: Kwiecień 2026)
+
 ## 1. Athlete Overview
 
 ### Athlete Profile
@@ -6,24 +9,26 @@
 |-------|-------|
 | Name | Maciek |
 | Age | 31 (born 28.07.1995) |
-| Height | 178[cm] |
-| Current Weight | 76[kg] |
-| Target Weight | 72[kg] |
-| Location | Kraków, Poland[City, Country] |
+| Height | 178 [cm] |
+| Current Weight | 76 [kg] |
+| Target Weight | 72 [kg] |
+| Location | Kraków, Poland |
 
 **Weigh-in Protocol:** Once weekly, Tuesday morning, after bathroom, before food/drink.
 
 ### Sport Focus
 
-Experience: Consistent training since November 2022.
-Previous Sports: Strength training/Gym.
+* **Experience:** Consistent training since November 2022.
+* **Previous Sports:** Strength training/Gym.
+* **Current FTP:** 295W (zaktualizowane po urlopie marcowym; eFTP 315W odrzucone do celów wyznaczania stref).
 
-### Goals
+### Goals (Double-Peak Strategy)
 
-| Goal | Target Date |
-|------|-------------|
-| [Primary goal] | 4.00 + W/Kg in 2026 as a result of FTP test (test protocol 5min all out + 10min rest + 20 min all out) FTP calculated as result of 20 min all out - 5% |
-| [Secondary goal] | Good preparation for: J-labs Gołcza Race 2026 - trasa krótka race |
+| Goal | Target Date | Description |
+|------|-------------|-------------|
+| **[Primary Goal A]** | 20 Czerwca 2026 | J-labs Gołcza Race (Trasa krótka). Cel: >4.0 W/kg. Traktowane jako pierwszy szczyt formy (Peak 1). |
+| **[Primary Goal B]** | Lipiec 2026 | **Tatra Road Race - Dystans Hard.** Weryfikacja docelowej wagi (72 kg) i wytrzymałości siłowej na stromych podjazdach (Peak 2). |
+| **[Long-term Goal]** | Sierpień/Wrzesień 2026 | 4.3 W/kg (310W przy 72 kg) przypieczętowane oficjalnym testem (5 min all out + 20 min all out - 5%) lub wyścigiem "małe ultra" (np. Tour de Silesia 300 km). |
 
 ---
 
@@ -33,27 +38,25 @@ Previous Sports: Strength training/Gym.
 
 | Component | Details |
 |-----------|---------|
-| Trainer/Bike | Garmin Tacx neo 2T |
-| Platform | Mywhoosh, intervals.icu, strava |
-| Cooling | Vacmaster Air Mover Cardio54 |
-| Sensors | Polar H10, Favero Assioma duo Power sensor |
-| Pedals | Favero Assioma duo |
+| Trainer/Bike | Garmin Tacx Neo 2T |
+| Platform | MyWhoosh, intervals.icu, Strava |
+| Cooling | Vacmaster Air Mover Cardio54 (Krytyczne dla utrzymania mocy) |
+| Sensors | Polar H10, Favero Assioma Duo Power sensor |
+| Pedals | Favero Assioma Duo |
 
 ### Outdoor Setup
 
 | Component | Details |
 |-----------|---------|
-| Bike | Lightcarbon LCR017-D + magene exar db508 wheelset |
-| Power Meter | Favero Assioma duo |
+| Bike | Lightcarbon LCR017-D + Magene Exar DB508 wheelset |
+| **Drivetrain (TRR Ready)** | **Korba 50/34. Kaseta bazowa: 11-34.** Wymóg przed Tatra Road Race (ochrona rzepek): zmiana kasety na 11-36 (jeśli wózek przerzutki pozwala). Absolutny zakaz przepychania korby na siedząco przy nachyleniach >15%. |
+| Power Meter | Favero Assioma Duo |
 | Head Unit | Garmin Edge 830 |
-| HRM | Polar H10 |
 
-### Environment
+### Environment / Execution Rules
 
-| Factor | Details |
-|--------|---------|
-| Indoor | Inside with Vacmaster Air Mover Cardio54 fan and window |
-| Outdoor | Kraków |
+* **Indoor (Kraków):** **BEZWZGLĘDNIE** używane do wszystkich interwałów MIT (Sweet Spot/Threshold) oraz HIT. Gwarantuje 100% precyzji w trybie ERG bez przerw na światłach i skrzyżowaniach.
+* **Outdoor (Kraków):** Używane **WYŁĄCZNIE** do jazd w strefach Z1/Z2 (Endurance/Volume), nabijania bazy tlenowej i ćwiczenia techniki (fun rides).
 
 ---
 
@@ -61,65 +64,33 @@ Previous Sports: Strength training/Gym.
 
 ### 3.1. Weekly Volume Target
 
-**Baseline:** 7 hours/week (± 2 hours)  
-**Peak phases:** Up to 10 hours (requires RI ≥ 0.8, HRV within 10%)
-**Frequency:** 5-6 days/week.
+* **Baseline:** 7 hours/week (± 2 hours)  
+* **Peak phases:** Up to 10 hours (requires RI ≥ 0.8, HRV within 10%)
+* **Frequency:** 5-6 days/week.
 
 ### 3.2. Block Periodization Templates
 
-Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w zależności od trwającego bloku, zachowując zasadę silnej polaryzacji. Więcej info w pliku `Block-periodisation.pdf`
+Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli zachowując zasadę silnej polaryzacji.
 
 **Szablon A: Blok LIT (Baza / Objętość) & Deload (Regeneracja)**
 * **Cel:** Adaptacje peryferyjne (LIT) lub superkompensacja (Deload).
-* **Struktura:** **4-5 sesji w tygodniu** to wyłącznie jazdy Z1/Z2. **Całkowity zakaz wchodzenia w Z3 (Tempo)**. W **1-2 sesjach w tygodniu** wplatamy krótkie sprinty (np. 3x30s w Z7 wiecej info w `The LIT with sprints.pdf`) dla aktywacji mięśni.
-* **Bodziec podtrzymujący:** 1 krótka sesja HIT (Z5) w tygodniu wg **Protokołu 3.4** (tylko w bloku LIT). W tygodniu Deload brak jakichkolwiek akcentów.
+* **Struktura:** 4-5 sesji w tygodniu Z1/Z2 na zewnątrz. Zakaz wchodzenia w Z3 (Tempo). 1-2 sesje ze sprintami aktywacyjnymi (Z7). 1 krótka sesja HIT (Z5) podtrzymująca.
 
-| Day | Primary Session | Duration (LIT) | Duration (Deload) |
-|-----|-----------------|----------|-----------|
-| Monday | Rest / Active Recovery | 0h | 0h |
-| Tuesday | Endurance Z2 + Sprints | 1.5h - 2h | 1h Z1 |
-| Wednesday | Endurance Z1/Z2 | 1.5h | 1h Z1 |
-| Thursday | HIT Podtrzymanie (Z5) - Prot. 3.4 | 1.5h | 1h Z1 |
-| Friday | Endurance Z1/Z2 | 1h - 1.5h | 0h - 1h Z1 |
-| Saturday | Long Ride Z2 | 2h - 3h | 1.5h Z1/Z2 |
-| Sunday | Endurance Z2 | 1.5h | 1h Z1 |
-
-**Szablon B: Blok MIT (Sweet Spot / Threshold)**
-* **Cel:** Podnoszenie mocy na progu (FTP) i odporności na zmęczenie.
-* **Struktura:** **3-4 sesje w tygodniu** ukierunkowane WYŁĄCZNIE na SS/Z4 oraz Over-Under. Z3 (Tempo) całkowicie wyeliminowane. Dodatkowe **1-2 sesje w tygodniu** to wyłącznie regeneracyjne jazdy w Z2.
-* **Bodziec podtrzymujący:** 1 krótka sesja HIT (Z5) w tygodniu wg **Protokołu 3.4**.
-
-| Day | Primary Session | Preferable Duration | Max duration |
-|-----|-----------------|----------|-----------|
-| Monday | Rest / Active Recovery | 0h | 1h Z1 |
-| Tuesday | MIT Interval (SS/Z4) | 1.5h | 2h |
-| Wednesday | Endurance Z1/Z2 | 1h | 1.5h |
-| Thursday | Over-Under (Z4/Z5) | 1.5h | 2h |
-| Friday | HIT Podtrzymanie (Z5) - Prot. 3.4 | 1h | 1.5h |
-| Saturday | MIT Long Intervals (SS/Z4) | 2h | 2.5h |
-| Sunday | Endurance Z1 | 1h | 1.5h |
+**Szablon B: Blok MIT (Sweet Spot / Threshold) & "Torque"**
+* **Cel:** Podnoszenie mocy na progu (FTP), odporności na zmęczenie i adaptacja do TRR.
+* **Struktura:** 3-4 sesje MIT w tygodniu robione WYŁĄCZNIE na trenażerze. 
+* **Nowy element (Ochrona Kolan / TRR):** Jedna sesja w tygodniu zawiera segmenty **Low Cadence** (np. 4x5 min na 55-60 RPM w strefie SS/Z4) dla uodpornienia ścięgien.
+* **Bodziec podtrzymujący:** 1 krótka sesja HIT wg Protokołu 3.4.
 
 **Szablon C: Blok HIT (VO2max)**
 * **Cel:** Przełamanie sufitu wydolnościowego (adaptacje centralne).
-* **Struktura:** **2-4 sesje w tygodniu** to ekstremalnie ciężkie treningi Z5/Z6 (Seiler 4x8 / Ronnestad 40:20). Ścisła polaryzacja: pozostałe **1-2 sesje w tygodniu** to aktywna regeneracja (Z1/Z2). Zero jazd w strefie SS/Z4.
-
-### 3.3. Czas trwania bloków w sezonie
-* **Blok HIT:** 1–2 tygodnie (ekstremalne obciążenie centralne).
-* **Blok MIT:** 2–4 tygodnie (wymagana większa objętość dla adaptacji progowych).
-* **Blok LIT:** 1 tydzień (jako deload) lub 2–4 tygodnie (budowa bazy).
+* **Struktura:** 2-4 sesje w tygodniu to ekstremalnie ciężkie treningi Z5/Z6 (Seiler 4x8 / Ronnestad 40:20). Zero jazd w strefie SS/Z4. Reszta jazd to czyste Z1.
 
 ### 3.4. Sesje Podtrzymujące (Maintenance Protocol)
-Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max przy jednoczesnym uniknięciu nadmiernego zmęczenia.
-
-* **Zasada 1:** Wysoka jakość, niska objętość (redukcja objętości interwałów o 50-70%).
-* **Zasada 2:** Intensywność musi być realnym uderzeniem w Z5 (powyżej progu beztlenowego).
-* **Zasada 3:** Wykonywana raz w tygodniu, najlepiej w środku bloku.
-
-**Przykład treningu (Short Intervals):**
-* **Rozgrzewka:** 20 min Z2 z 3x30s przyspieszeniami.
-* **Część główna:** 3–4 powtórzenia po 2 minuty w strefie 5 (106–120% FTP / 90-95% HR max).
-* **Przerwa:** 3–4 minuty pełnego wypoczynku w Z1 między powtórzeniami.
-* **Schłodzenie:** do końca sesji w Z1/Z2.
+Stosowane w blokach LIT i MIT, aby zapobiec regresji VO2 max.
+* **Zasada 1:** Krótko i treściwie (np. 3-4 powtórzenia po 2 min w Z5).
+* **Zasada 2 (Zakaz bohaterstwa):** Sesja kończy się dokładnie po zaplanowanych powtórzeniach. Absolutny zakaz wydłużania treningu. Ma pozostać potężny niedosyt.
+* **Zasada 3:** Tylko na trenażerze. 
 
 ---
 
@@ -129,86 +100,65 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 - **Max HR:** 195 bpm
 - **Threshold HR (LTHR):** 181 bpm
 
-### Current Power Zones (Based on indoor measurement)
-| Zone | % of FTP | Notes |
-|------|----------|-------|
-| Z1 | 0–55% | Active Recovery |
-| Z2 | 56–75% | Endurance (Base) |
-| Z3 | 76–90% | Tempo (Unikać w blokach LIT i MIT) |
-| Z4 | 91–105% | Threshold (Próg) |
-| Z5 | 106–120% | VO₂max |
-| Z6 | 121–150% | Anaerobic |
-| Z7 | 151%+ | Sprint |
-| SS | 84–97% | Sweetspot |
+### Current Power Zones (Based on FTP 295W)
+| Zone | % of FTP | Range (W) | Notes |
+|------|----------|-----------|-------|
+| Z1 | 0–55% | < 162W | Active Recovery |
+| Z2 | 56–75% | 165–221W | Endurance (Base) |
+| Z3 | 76–83% | 224–244W | Tempo (Unikać w blokach LIT/MIT) |
+| SS | 84–97% | 247–286W | Sweet Spot (Główna strefa kwietniowa) |
+| Z4 | 91–105% | 268–309W | Threshold (Próg) |
+| Z5 | 106–120% | 312–354W | VO₂max (Protokoły podtrzymujące) |
+| Z6 | 121–150% | 356–442W | Anaerobic |
+| Z7 | 151%+ | > 445W | Sprint |
 
-### Weight Tracking
+### Weight Tracking & RED-S Prevention
 
-**Adjustment Control:** Weight adjustments only permitted during readiness-positive periods (DI ≥ 0.95, HR drift ≤ 3%, RI ≥ 0.8)
+* **Mikro-Deficyt:** Zrzucanie 4 kg zaplanowane w czasie (do lipca/sierpnia) w tempie max -150 do -200 kcal/dzień.
+* **Restrykcja Kaloryczna:** **ABSOLUTNY ZAKAZ** wprowadzania deficytu kalorycznego w blokach HIT oraz w fazie Overreaching. W maju obowiązuje bilans zerowy (utrzymanie). Redukcja wagi dozwolona wyłącznie w blokach LIT, fazie przejściowej i podczas urlopu w Japonii poprzez nabijanie kroków (NEAT).
 
 ---
 
-# 5. Nutrition / Fueling
+## 5. Nutrition / Fueling
 
 ### Training Fuel Recipe
-- `Isostar Hydrate&Perform Isotonic Sport Drink + water` (35g CHO/bidon)
+- Isostar Hydrate&Perform Isotonic Sport Drink + water (35g CHO/bidon)
 - Galaretka owocowa energetyczna miks Aptonia (21g CHO/baton + 0,12g soli/baton)
 - Powerbar Power Gel jabłkowy 41 g (26g CHO/żel + 50mg caffeine/żel + 0,5g soli/żel)
 
 ### Fueling by Workout Type
-| Workout Type | Duration | CHO Target | Setup |
-|--------------|----------|------------|-------|
-| Recovery / Z1–Z2 | < 1.5 h | 0 - 30 g/h | Woda lub 1 bidon Isostar |
-| Endurance | 1.5–3 h | 40 - 60 g/h | 1-2 bidony Isostar/h + ew. banan |
-| Threshold / SS | 1–2 h | 60 - 80 g/h | 2 bidony Isostar/h (lub maltodekstryna) |
-| Race / Event | 2–3 h | 80 - 90 g/h | Żele węglowodanowe + Isostar |
+| Workout Type | Target | Setup |
+|--------------|--------|-------|
+| Recovery / Z1-Z2 | 0-30 g/h | Woda lub 1 bidon Isostar |
+| Endurance / SS | 40-80 g/h | 1-2 bidony Isostar/h + żel/banan |
+| HIT / Race / Overreach | 80-90 g/h | "Pod korek" (Żele węglowodanowe + Isostar) |
 
 **Hydration Target:** 500-750 ml/hour.
 
 ---
 
-# 6. Long-Term Performance Roadmap
+## 6. Long-Term Performance Roadmap (Double Peak Strategy)
 
-**WAŻNE OGRANICZENIE:** 26-29 marca wyjazd do Szwajcarii (brak treningu). Od 19 maja do 4 czerwca 2026 całkowity brak możliwości jazdy na rowerze. Wyścig docelowy (A) J-labs Gołcza Race: 20 czerwca 2026.
+**Ograniczenia kalendarzowe:** 19 maja - 4 czerwca (Japonia - brak dostępu do roweru).
 
-### Scheduled Training Races (MyWhoosh, Priority C)
-Wtorkowe wyścigi w marcu są traktowane w 100% jako jednostki treningowe wplatane w bieżący makrocykl.
-* **10 Marzec:** Octopus Loop (13.9km / ITT / ok. 20 min). *Bodziec: Z4/Z5. Wypada w trakcie bloku HIT.*
-* **17 Marzec:** Hudayriyat Ascend (28.2km / Scratch / ok. 45 min). *Bodziec: Stochastyczne Z5/Z6. Zastępuje sesję HIT w bloku VO2max.*
-* **24 Marzec:** Alto del Aguila (13.1km / Hill Climb / ok. 30 min). *Bodziec: SS/Z4 z wejściami w Z5. Zastępuje sesję HIT przed wylotem do Szwajcarii.*
-* **31 Marzec:** Secret stage (Points Race / ok. 45-60 min). *Bodziec: Szarpane powtarzalne sprinty. Wypada na początku bloku LIT – traktować jako aktywację sprinterską wpisaną w blok objętości.*
-
-### Road Map to Target Event
-
-Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu. Cechą wyróżniającą ten cykl jest **Ekstremalnie Wydłużony Blok Overreaching (14 dni)** przed głównym urlopem, mający na celu maksymalne wyeksponowanie organizmu na stres i wywołanie głębokiej superkompensacji w trakcie 16 dni bez roweru. 
-
-| Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
-|-------------|------------------|-------------------------|-------------------------|
-| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
-| **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO (4 dni) | Wymuszona regeneracja i przerwa od roweru. Zastępuje zaplanowany Deload i wywołuje superkompensację. |
-| **30 Mar - 6 Kwi** | **Blok HIT** | Bardzo Wysokie (1 tyg.) | Kontynuacja bloku HIT sprzed urlopu. Po krótkim deload wkraczamy w ostatni tydzień przebijania sufitu |
-| **6 Kwi - 12 Kwi** | **Blok LIT** | Niskie (1 tyg.) | Superkompensacja po 3 tygodniach HIT. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
-| **13 Kwi - 26 Kwi** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Przyspieszony start fazy budowy FTP. **[W tygodniu:]** 2 sesje SS/Z4 (w tym 1x Over-Under) + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
-| **27 Kwi - 4 Maj** | **Blok HIT** | Wysokie (8 dni) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
-| **5 - 18 Maj** | **Blok HIT (Overreaching)** | **EKSTREMALNE (14 dni)** | Wydłużony, morderczy blok celowego przetrenowania tuż przed wylotem. **[Na cały blok 14-dniowy:]** 6-8 ekstremalnych sesji HIT (Z5). Szukanie absolutnego limitu. |
-| **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po dwutygodniowym przetrenowaniu. |
-| **5 - 7 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie (Crash block, 3 dni) | Budzenie układu nerwowego bez kwasu mlekowego. **[Na cały blok 3-dniowy:]** 3 jazdy LIT + pod koniec tygodnia wplatane krótkie sprinty. Szok po 16 dniach bez roweru. Żadnych ciężkich interwałów! |
-| **8 - 12 Cze** | **Mini-Blok HIT/MIT** | Wysokie (5 dni) | Przywrócenie objętości osocza krwi. **[Na cały blok 5-dniowy:]** 2 mocne akcenty (Z4/Z5/Over-Under) + 2 sesje Z1. |
-| **13 - 19 Cze** | **Tapering (Szczytowanie)** | Bardzo Niskie (7 dni) | Obcięcie objętości do 4-5h. Krótkie wejścia w tempo wyścigowe. **[W tygodniu:]** 3-4 bardzo krótkie sesje Z1 z akcentami Z4/Z5. |
-| **20 Czerwca** | **WYŚCIG (Cel A)** | MAXIMUM | **Gołcza Race. Cel: 4.0+ W/kg na FTP test (~300W)** |
+| Data (2026) | Faza / Typ Bloku | Obciążenie | Key Metrics / Działanie |
+|-------------|------------------|------------|-------------------------|
+| **13 - 26 Kwi** | **Blok MIT (Threshold)** | Wysokie (2 tyg.) | Budowa "diesla". FTP ustalone na bezpieczne 295W. Wszystkie interwały na Tacxie. Wdrożenie 1 sesji "Torque / Low Cadence" tygodniowo pod TRR. |
+| **27 Kwi - 10 Maj**| **Stabilizacja & Ładowanie** | Średnie (14 dni) | Dominacja Z2 z pojedynczymi wejściami w MIT. Pełne ładowanie węglowodanami, bilans kaloryczny zerowy przed nadchodzącym przeciążeniem. |
+| **11 - 18 Maj** | **Blok HIT (Overreaching)** | **EKSTREMALNE (7 dni)** | Skondensowany, 7-dniowy uderzeniowy blok (5 sesji HIT). Celowe wywołanie Funkcjonalnego Przeciążenia (FOR) bez popadania w patologiczny NFOR. |
+| **19 Maj - 4 Cze**| **URLOP: JAPONIA (Anti-Detraining)** | Stres Termiczny / Z1 | **Protokół ochrony osocza i kolan:** <br> 1. NEAT: 15k-25k kroków dziennie (Z1). <br> 2. Onseny/Sauna: 15-20 min co wieczór (Heat Acclimation). <br> 3. Schody: Wchodzenie dynamiczne w górę (Z4/Z5 bodziec), zjazd bezwzględnie windą (zakaz ekscentryki). |
+| **5 - 7 Cze** | **Reaktywacja (Priming)** | Niskie (3 dni) | Budzenie układu bez kwasu mlekowego. Wdrożenie *Priming Sessions* (np. 3x3 min na dolnej granicy progu Z4) w celu natychmiastowego przywrócenia gęstości osocza. |
+| **8 - 12 Cze** | **Mini-Blok HIT/MIT** | Wysokie (5 dni) | Odbudowa objętości krwi i wyostrzenie układu nerwowego. |
+| **13 - 19 Cze** | **Tapering (Szczytowanie)** | Bardzo Niskie (7 dni)| Obcięcie objętości do 4-5h. Krótkie wejścia w tempo wyścigowe. |
+| **20 Czerwca** | **WYŚCIG: Gołcza Race (Peak 1)** | MAXIMUM | Cel: Weryfikacja poziomu 4.0 - 4.1 W/kg na trasie krótkiej. |
+| **Lipiec** | **WYŚCIG: Tatra Road Race Hard**| MAXIMUM | **Peak 2.** Ostateczny test górskiej wytrzymałości siłowej. Waga: blisko docelowych 72 kg. |
+| **Sierpień - Październik** | **Faza Ultra / Z2 / Fun Racing** | Objętość Z2 | Koniec z blokami HIT. Transformacja formy na długi dystans. Cel: Tour de Silesia 300 km lub Niepokalany 200 km. Jazda na "wypłacie" wygenerowanej w pierwszej połowie sezonu (próg tlenowy >200W). |
 
 ---
 
-# 7. Data Mirror Configuration
-
-### JSON Endpoint (for AI coaches)
-
+## 7. Data Mirror Configuration
 **URL:** `https://raw.githubusercontent.com/niedzielnyaniol/t1-data/refs/heads/main/latest.json`
-
 **Archive:** `https://github.com/niedzielnyaniol/t1-data/tree/main/archive`
-
-This endpoint provides synchronized Intervals.icu metrics for deterministic AI parsing. See **Section 11** for the full AI Coach Guidance Protocol.
-
----
 
 ## Protocol Reference
 This dossier follows the **Section 11 A/B AI Coach Guidance Protocol**.
