@@ -106,12 +106,7 @@ Zamiast jednego sztywnego planu, stosujemy rotację trzech typów mikrocykli w z
 * **Cel:** Przełamanie sufitu wydolnościowego (adaptacje centralne).
 * **Struktura:** **2-4 sesje w tygodniu** to ekstremalnie ciężkie treningi Z5/Z6 (Seiler 4x8 / Ronnestad 40:20). Ścisła polaryzacja: pozostałe **1-2 sesje w tygodniu** to aktywna regeneracja (Z1/Z2). Zero jazd w strefie SS/Z4.
 
-### 3.3. Czas trwania bloków w sezonie
-* **Blok HIT:** 1–2 tygodnie (ekstremalne obciążenie centralne).
-* **Blok MIT:** 2–4 tygodnie (wymagana większa objętość dla adaptacji progowych).
-* **Blok LIT:** 1 tydzień (jako deload) lub 2–4 tygodnie (budowa bazy).
-
-### 3.4. Sesje Podtrzymujące (Maintenance Protocol)
+### 3.3. Sesje Podtrzymujące (Maintenance Protocol)
 Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max przy jednoczesnym uniknięciu nadmiernego zmęczenia.
 
 * **Zasada 1:** Wysoka jakość, niska objętość (redukcja objętości interwałów o 50-70%).
