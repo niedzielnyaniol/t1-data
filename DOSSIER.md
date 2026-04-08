@@ -8,10 +8,11 @@
 | Age | 31 (born 28.07.1995) |
 | Height | 178[cm] |
 | Current Weight | 76.5[kg] |
-| Target Weight | 75[kg] |
+| Target Weight | 74[kg] |
 | Location | Kraków, Poland[City, Country] |
 
 **Weigh-in Protocol:** Once weekly, Tuesday morning, after bathroom, before food/drink.
+Cel: redukcja 0.2kg/tydzień w dniach LIT/Recovery.
 
 ### Sport Focus
 
@@ -25,7 +26,7 @@ end of season: 10.2026
 | Goal | Target Date |
 |------|-------------|
 | [Primary goal] | 4.2-4.3 W/Kg in 2026 as a result of FTP test (test protocol 5min all out + 10min z1/z2 + 20 min all out) FTP calculated as result of 20 min all out - 5% |
-| [Secondary goal] | Good preparation for: J-labs Gołcza Race 2026 - trasa krótka race - wyścig PRIO B |
+| [Secondary goal] | Good preparation for: Tatra Road Race - Dystans HARD - wyścig PRIO B |
 
 ---
 
