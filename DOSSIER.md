@@ -25,7 +25,7 @@ end of season: 10.2026
 | Goal | Target Date |
 |------|-------------|
 | [Primary goal] | 4.2-4.3 W/Kg in 2026 as a result of FTP test (test protocol 5min all out + 10min z1/z2 + 20 min all out) FTP calculated as result of 20 min all out - 5% |
-| [Secondary goal] | Good preparation for: Tatra Road Race - Dystans HARD - wyścig PRIO B |
+| [Secondary goal] | Good preparation for: Tatra Road Race - Dystans HARD - wyścig PRIO A |
 
 ---
 
@@ -185,7 +185,7 @@ Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnym
 | **30 Mar - 6 Kwi** | **Blok HIT** | Bardzo Wysokie (1 tyg.) | Kontynuacja bloku HIT sprzed urlopu. Po krótkim deload wkraczamy w ostatni tydzień przebijania sufitu |
 | **6 Kwi - 12 Kwi** | **Blok LIT** | Niskie (1 tyg.) | Superkompensacja po 3 tygodniach HIT. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
 | **13 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (3 tyg.) | Przyspieszony start fazy budowy FTP. **[W tygodniu:]** 2 sesje over-under/Z4 + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
-| **4 Kwi - 18 Maj** | **Blok HIT** | Wysokie | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
+| **4 Maj - 18 Maj** | **Blok HIT** | Wysokie | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
 | **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po dwutygodniowym przetrenowaniu. |
 | **5 - 11 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie/Średnie | Odbudowa objętości osocza i czucia mięśniowego. Długie jazdy Z1/Z2 przeplatane wyłącznie 15-30 sekundowymi maksymalnymi sprintami (Z7). Zero pracy w strefach Z3-Z6, aby nie generować kwasu mlekowego. |
 | **20 Czerwca** | **WYŚCIG (Cel B/C)** | Wysokie | J-labs Gołcza Race. Start treningowy "z marszu". Traktowany jako najcięższa jednostka uderzeniowa kończąca blok reaktywacji, przepalająca układ beztlenowy i nerwowy. Brak taperingu przed startem. |
