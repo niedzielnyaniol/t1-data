@@ -12,7 +12,6 @@
 | Location | Kraków, Poland[City, Country] |
 
 **Weigh-in Protocol:** Once weekly, Tuesday morning, after bathroom, before food/drink.
-Cel: redukcja 0.2kg/tydzień w dniach LIT/Recovery.
 
 ### Sport Focus
 
