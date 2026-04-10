@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T07:40:47.389127",
+  "generated_at": "2026-04-10T19:45:42.425640",
   "version": "3.98",
   "script_hash": "02e4f2d6c77c",
   "scan_hours": 72,
@@ -1760,6 +1760,43 @@
           "zone": 2,
           "training_load": 34.125874,
           "decoupling": -1.4080273
+        }
+      ]
+    },
+    {
+      "activity_id": "i138755631",
+      "date": "2026-04-10",
+      "type": "VirtualRide",
+      "name": "Endurance Z1/Z2",
+      "interval_summary": [
+        "1x 28s 117w",
+        "1x 55m26s 193w"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "28s@117w82rpm",
+          "duration_secs": 28,
+          "avg_power": 117,
+          "max_power": 193,
+          "avg_hr": 61,
+          "max_hr": 64,
+          "avg_cadence": 82.03571,
+          "zone": 1,
+          "decoupling": -93.51077
+        },
+        {
+          "type": "WORK",
+          "label": "3326s@193w90rpm",
+          "duration_secs": 3326,
+          "avg_power": 193,
+          "max_power": 300,
+          "avg_hr": 129,
+          "max_hr": 142,
+          "avg_cadence": 90.25927,
+          "zone": 2,
+          "training_load": 39.823593,
+          "decoupling": -0.21758133
         }
       ]
     }
