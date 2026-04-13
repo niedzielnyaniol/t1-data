@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T20:03:36.150344",
+  "generated_at": "2026-04-13T20:17:15.483403",
   "version": "3.98",
   "script_hash": "02e4f2d6c77c",
   "scan_hours": 72,
@@ -525,6 +525,104 @@
           "avg_cadence": 86.0,
           "zone": 1,
           "training_load": 0.00558475
+        }
+      ]
+    },
+    {
+      "activity_id": "i139566892",
+      "date": "2026-04-13",
+      "type": "VirtualRide",
+      "name": "TH-1 Classic Threshold Blocks",
+      "interval_summary": [
+        "3x 12m6s 292w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1409,
+          "avg_power": 183,
+          "max_power": 331,
+          "avg_hr": 133,
+          "max_hr": 158,
+          "avg_cadence": 95.68125,
+          "zone": 2,
+          "training_load": 16.049826,
+          "decoupling": -3.272087
+        },
+        {
+          "type": "WORK",
+          "label": "726s@292w94rpm",
+          "duration_secs": 728,
+          "avg_power": 291,
+          "max_power": 394,
+          "avg_hr": 165,
+          "max_hr": 171,
+          "avg_cadence": 97.30357,
+          "zone": 4,
+          "training_load": 19.542532,
+          "decoupling": 3.826105
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 363,
+          "avg_power": 154,
+          "max_power": 284,
+          "avg_hr": 133,
+          "max_hr": 170,
+          "avg_cadence": 92.869446,
+          "zone": 1,
+          "training_load": 3.1576507,
+          "decoupling": -10.744563
+        },
+        {
+          "type": "WORK",
+          "label": "726s@292w94rpm",
+          "duration_secs": 722,
+          "avg_power": 291,
+          "max_power": 409,
+          "avg_hr": 167,
+          "max_hr": 173,
+          "avg_cadence": 94.84349,
+          "zone": 4,
+          "training_load": 19.381468,
+          "decoupling": 3.9516642
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 360,
+          "avg_power": 155,
+          "max_power": 292,
+          "avg_hr": 135,
+          "max_hr": 173,
+          "avg_cadence": 89.772224,
+          "zone": 1,
+          "training_load": 3.243206,
+          "decoupling": -9.03471
+        },
+        {
+          "type": "WORK",
+          "label": "726s@292w94rpm",
+          "duration_secs": 728,
+          "avg_power": 293,
+          "max_power": 425,
+          "avg_hr": 168,
+          "max_hr": 174,
+          "avg_cadence": 90.4272,
+          "zone": 4,
+          "training_load": 19.813015,
+          "decoupling": 3.8411267
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 746,
+          "avg_power": 163,
+          "max_power": 265,
+          "avg_hr": 136,
+          "max_hr": 174,
+          "avg_cadence": 91.01897,
+          "zone": 2,
+          "training_load": 6.718841,
+          "decoupling": -11.902668
         }
       ]
     }
