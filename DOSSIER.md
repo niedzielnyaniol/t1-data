@@ -192,6 +192,11 @@ These values represent the recommended amount of fast-absorbing carbohydrates (i
 | | 61 - 72 | 1.1 - 1.2 |
 | | ≥ 73 | 1.2 |
 
+Proportions:
+
+* Carbohydrates to Protein (4:1): Aim for this ratio when building your recovery shake to support both energy replenishment and muscle repair.
+* Maltodextrin to Fructose (2:1): Use this ratio for the carbohydrates to prioritize muscle glycogen recovery
+
 ---
 
 # 6. Long-Term Performance Roadmap
