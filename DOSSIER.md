@@ -161,6 +161,37 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 
 **Hydration Target:** 500-750 ml/hour.
 
+### Fueling after workout
+
+These values represent the recommended amount of fast-absorbing carbohydrates (in grams per kilogram of body weight) that you should consume within 10 minutes post-ride for optimal glycogen replenishment, based on the workout's duration and intensity.
+
+| Ride Duration | Intensity (TSS/h) | Post-Ride Carbohydrates (g/kg) |
+| :--- | :--- | :--- |
+| **≤ 45 min** | < 50 | 0.3 - 0.4 |
+| | 50 - 60 | 0.4 - 0.5 |
+| | 61 - 72 | 0.5 - 0.6 |
+| | ≥ 73 | 0.5 - 0.7 |
+| **46 - 75 min** | < 50 | 0.3 - 0.5 |
+| | 50 - 60 | 0.4 - 0.6 |
+| | 61 - 72 | 0.5 - 0.6 |
+| | ≥ 73 | 0.6 - 0.7 |
+| **76 - 120 min** | < 50 | 0.4 - 0.5 |
+| | 50 - 60 | 0.5 - 0.6 |
+| | 61 - 72 | 0.6 - 0.7 |
+| | ≥ 73 | 0.7 - 0.8 |
+| **121 - 180 min** | < 50 | 0.6 - 0.8 |
+| | 50 - 60 | 0.8 - 1.0 |
+| | 61 - 72 | 1.0 - 1.1 |
+| | ≥ 73 | 1.1 - 1.2 |
+| **181 - 240 min** | < 50 | 0.8 - 0.9 |
+| | 50 - 60 | 1.0 - 1.1 |
+| | 61 - 72 | 1.1 - 1.2 |
+| | ≥ 73 | 1.2 |
+| **> 240 min** | < 50 | 0.8 - 1.0 |
+| | 50 - 60 | 1.0 - 1.1 |
+| | 61 - 72 | 1.1 - 1.2 |
+| | ≥ 73 | 1.2 |
+
 ---
 
 # 6. Long-Term Performance Roadmap
