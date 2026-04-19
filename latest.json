@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-19T16:43:02.024797",
+    "last_updated": "2026-04-19T17:39:57.235291",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.98"
@@ -228,7 +228,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 3829,
+      "steps": 5450,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -575,9 +575,9 @@
           "planned_tss_delta": 1.26,
           "hard_sessions_planned": 0,
           "race_proximity": 62,
-          "next_week_load": null,
+          "next_week_load": 1.18,
           "plan_coverage_current_week": 0.2,
-          "plan_coverage_next_week": 0.0
+          "plan_coverage_next_week": 1.2
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -612,7 +612,7 @@
     "p_max": 1151,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 60.0,
-    "calculation_timestamp": "2026-04-19T16:43:01.687895",
+    "calculation_timestamp": "2026-04-19T17:39:57.233938",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1971,7 +1971,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 3829,
+      "steps": 5450,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1986,6 +1986,86 @@
     {
       "id": 103497803,
       "date": "2026-04-19",
+      "name": "Long Endurance Z2 (AE-2)",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 90,
+      "duration_hours": 2.0,
+      "duration_formatted": "2h",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "Warmup\n- 15m ramp 50-65%\n\nMain set\n- 90m 65-75%\n\nCooldown\n- 15m ramp 65-45%"
+    },
+    {
+      "id": 105280111,
+      "date": "2026-04-21",
+      "name": "TH-1 Classic Threshold Blocks",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 120,
+      "duration_hours": 1.77,
+      "duration_formatted": "1h46m30s",
+      "workout_summary": "15m @186W | 3\u00d730s @341W / 1m rec | 5m @155W | 4\u00d712m @302W / 6m rec | 10m @162W",
+      "has_terrain": false,
+      "description": "Warmup\n- 15m ramp 50-70%\n\n3x\n  - 30s 110%\n  - 1m 50%\n- 5m 50%\n\nMain set\n4x\n  - 12m 95-100%\n  - 6m 45-55%\n\nCooldown\n- 10m ramp 60-45%"
+    },
+    {
+      "id": 105281061,
+      "date": "2026-04-22",
+      "name": "Endurance 1,5h",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 66,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "Warmup\n- 15m ramp 50-65%\n\nMain Set\n- 60m 65-75%\n\nCooldown\n- 15m ramp 65-50%"
+    },
+    {
+      "id": 105281574,
+      "date": "2026-04-23",
+      "name": "Over-Unders (SS-3)",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 119,
+      "duration_hours": 1.65,
+      "duration_formatted": "1h39m",
+      "workout_summary": "10m @176W | 3\u00d71m @250W / 1m rec | 5m @147W | 4\u00d72m @272W / 1m rec | 5m @147W | 4\u00d72m @272W / 1m rec | 5m @147W | 4\u00d72m @272W / 1m rec | 5m @147W | 4\u00d72m @272W / 1m rec | 5m @147W | 10m @154W",
+      "has_terrain": false,
+      "indoor": true,
+      "description": "Warmup\n- 10m ramp 50-70%\n\n3x\n  - 1m 85%\n  - 1m 50%\n- 5m 50%\n\nMain set\n\n4x\n- 2m 90-95%\n- 1m 106-115%\n\n - 5m 45-55%\n\n4x\n- 2m 90-95%\n- 1m 106-115%\n\n  - 5m 45-55%\n\n4x\n- 2m 90-95%\n- 1m 106-115%\n\n  - 5m 45-55%\n\n4x\n- 2m 90-95%\n- 1m 106-115%\n\n  - 5m 45-55%\n\nCooldown\n- 10m ramp 60-45%"
+    },
+    {
+      "id": 105281337,
+      "date": "2026-04-24",
+      "name": "HIT Podtrzymanie",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 83,
+      "duration_hours": 1.69,
+      "duration_formatted": "1h41m30s",
+      "workout_summary": "15m @176W | 3\u00d730s @310W / 1m rec | 3m @147W | 4\u00d72m @326W / 4m rec | 40m @199W | 15m @154W",
+      "has_terrain": false,
+      "indoor": true,
+      "description": "Warmup\n- 15m ramp 50-70%\n\n3x\n  - 30s 100-110%\n  - 1m 50%\n\n- 3m 50%\n\nMain set\n4x\n  - 2m 106-115%\n  - 4m 45-50%\n\n- 40m 60-75%\n\nCooldown\n- 15m ramp 60-45%"
+    },
+    {
+      "id": 105280112,
+      "date": "2026-04-25",
+      "name": "TH-1 Classic Threshold Blocks",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 112,
+      "duration_hours": 1.62,
+      "duration_formatted": "1h37m30s",
+      "workout_summary": "15m @186W | 3\u00d730s @341W / 1m rec | 5m @155W | 3\u00d715m @302W / 6m rec | 10m @162W",
+      "has_terrain": false,
+      "description": "Warmup\n- 15m ramp 50-70%\n\n3x\n  - 30s 110%\n  - 1m 50%\n- 5m 50%\n\nMain set\n3x\n  - 15m 95-100%\n  - 6m 45-55%\n\nCooldown\n- 10m ramp 60-45%"
+    },
+    {
+      "id": 105281246,
+      "date": "2026-04-26",
       "name": "Long Endurance Z2 (AE-2)",
       "type": "WORKOUT",
       "sport_type": "Ride",
@@ -2037,12 +2117,12 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 1,
-    "success": 0,
-    "patternA": 0,
+    "attempted": 7,
+    "success": 4,
+    "patternA": 4,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 1
+    "bail_no_match": 3
   },
   "weekly_summary": {
     "total_training_hours": 7.77,
