@@ -146,56 +146,36 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 
 # 5. Nutrition / Fueling
 
-### Training Fuel Recipe
-- `Isostar Hydrate&Perform Isotonic Sport Drink + water` (35g CHO/bidon)
-- Galaretka owocowa energetyczna miks Aptonia (21g CHO/baton + 0,12g soli/baton)
-- Powerbar Power Gel jabłkowy 41 g (26g CHO/żel + 50mg caffeine/żel + 0,5g soli/żel)
+### Training Fuel Recipe (1:0.8 Ratio)
+*Optimized for high absorption and gut comfort.*
 
-### Fueling by Workout Type
+- **Homemade Mix (approx. 33g CHO):** 18.6g Maltodextrin, 15.0g Fructose, 0.8g Citric Acid, 0.6g Salt.
+- **Powerbar PowerGel Apple:** 26g CHO, 50mg Caffeine, 0.5g Sodium/Salt per gel.
+- **Powerbar PowerGel Strawberry:** 26g CHO, 0.5g Sodium/Salt per gel.
+- **Equipment:** Bottle set (2x 710ml and 2x 950ml).
+
+### Fueling by Workout Type (Weight Loss Focus)
 | Workout Type | Duration | CHO Target | Setup |
-|--------------|----------|------------|-------|
-| Recovery / Z1–Z2 | < 1.5 h | 0 - 30 g/h | Woda lub 1 bidon Isostar |
-| Endurance | 1.5–3 h | 40 - 60 g/h | 1-2 bidony Isostar/h + ew. banan |
-| Threshold / Over-under | 1–2 h | 60 - 80 g/h | 2 bidony Isostar/h (lub maltodekstryna) |
-| Race / Event | 2–3 h | 80 - 90 g/h | Żele węglowodanowe + Isostar |
+| :--- | :--- | :--- | :--- |
+| **Recovery / Z1–Z2** | < 1.5 h | 0 g/h | Water + Zero-calorie Electrolyte tabs |
+| **Endurance** | 1.5–3 h | 30–40 g/h | 1 bottle with Mix + 1 bottle with Water/Electrolytes |
+| **Threshold / Over-under** | 1–2 h | 50–60 g/h | Mix in bottles and/or Gels |
+| **Race / Event** | 2–3 h | 80–90 g/h | Carb Gels + Mix in bottles |
 
-**Hydration Target:** 500-750 ml/hour.
+**Hydration Target:** 500–750 ml per hour (adjust based on sweat rate).
 
-### Fueling after workout
+### Post-Ride Recovery
+*Focus on satiety and real food to support weight loss. Avoid drinking calories when unnecessary.*
 
-These values represent the recommended amount of fast-absorbing carbohydrates (in grams per kilogram of body weight) that you should consume within 10 minutes post-ride for optimal glycogen replenishment, based on the workout's duration and intensity.
-
-| Ride Duration | Intensity (TSS/h) | Post-Ride Carbohydrates (g/kg) |
+| Ride Duration | Intensity | Recovery Strategy |
 | :--- | :--- | :--- |
-| **≤ 45 min** | < 50 | 0.3 - 0.4 |
-| | 50 - 60 | 0.4 - 0.5 |
-| | 61 - 72 | 0.5 - 0.6 |
-| | ≥ 73 | 0.5 - 0.7 |
-| **46 - 75 min** | < 50 | 0.3 - 0.5 |
-| | 50 - 60 | 0.4 - 0.6 |
-| | 61 - 72 | 0.5 - 0.6 |
-| | ≥ 73 | 0.6 - 0.7 |
-| **76 - 120 min** | < 50 | 0.4 - 0.5 |
-| | 50 - 60 | 0.5 - 0.6 |
-| | 61 - 72 | 0.6 - 0.7 |
-| | ≥ 73 | 0.7 - 0.8 |
-| **121 - 180 min** | < 50 | 0.6 - 0.8 |
-| | 50 - 60 | 0.8 - 1.0 |
-| | 61 - 72 | 1.0 - 1.1 |
-| | ≥ 73 | 1.1 - 1.2 |
-| **181 - 240 min** | < 50 | 0.8 - 0.9 |
-| | 50 - 60 | 1.0 - 1.1 |
-| | 61 - 72 | 1.1 - 1.2 |
-| | ≥ 73 | 1.2 |
-| **> 240 min** | < 50 | 0.8 - 1.0 |
-| | 50 - 60 | 1.0 - 1.1 |
-| | 61 - 72 | 1.1 - 1.2 |
-| | ≥ 73 | 1.2 |
+| **< 90 min** | Any | **No recovery shake.** Eat your next scheduled balanced meal (Protein + Complex Carbs). |
+| **90 min – 3h** | Low/Moderate | **No recovery shake.** Focus on a solid meal within 60 min. |
+| **90 min – 3h** | High (TSS > 70/h) | Small 4:1 (Carb:Protein) snack **only if** next meal is > 1h away. |
+| **> 3h** | Any | 4:1 Recovery Shake (0.5g Carb/kg) followed by a solid meal. |
 
-Proportions:
-
-* Carbohydrates to Protein (4:1): Aim for this ratio when building your recovery shake to support both energy replenishment and muscle repair.
-* Maltodextrin to Fructose (2:1): Use this ratio for the carbohydrates to prioritize muscle glycogen recovery
+**Key Principles:**
+* **Real Food First:** Prioritize solid meals over shakes to stay full longer.
 
 ---
 
