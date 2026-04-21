@@ -143,7 +143,6 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 **Adjustment Control:** Weight adjustments only permitted during readiness-positive periods (DI ≥ 0.95, HR drift ≤ 3%, RI ≥ 0.8)
 
 ---
-
 # 5. Nutrition / Fueling
 
 ## 5.1. Training Fuel & On-Bike Strategy
@@ -162,6 +161,7 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 | **Recovery / Z1–Z2** | < 1.5 h | 0 g/h | Water + Zero-calorie Electrolyte tabs |
 | **Endurance** | 1.5–3 h | 30–40 g/h | 1 bottle with Mix + 1 bottle with Water/Electrolytes |
 | **Threshold / Over-under** | 1–2 h | 50–60 g/h | Mix in bottles and/or Gels |
+| **HIT / VO2 Max (Z5-Z6)** |	1–1.5 h | 60–80 g/h |	Mix in bottles + 1 Gel (15 min before first hard interval) |
 | **Race / Event** | 2–3 h | 80–90 g/h | Carb Gels + Mix in bottles |
 
 **Hydration Target:** 500–750 ml per hour (adjust based on sweat rate).
@@ -181,18 +181,33 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 * **The "10-minute window" is a myth:** Aim to eat within 30–90 minutes post-ride.
 
 ## 5.3. Daily Nutrition (Off-Bike) & Weight Loss Principles
-*Fundamental principles for sustainable weight loss and athletic performance.*
+*Fundamental principles for sustainable weight loss (Target: 74kg) and performance.*
 
 ### 5.3.1. Energy Balance & Macronutrients
-* **Caloric Deficit:** Maintain a moderate deficit of **300–500 kcal per day**. Excessive deficits lead to muscle loss and poor recovery.
-* **Protein Intake:** Target **1.6 to 2.0g of protein per kg of body weight** daily. This protects muscle mass and keeps you satiated.
-* **Carbohydrate Periodization:** * **High-Intensity Days:** Center your meals around complex carbs (rice, potatoes, oats).
-    * **Rest/Low-Intensity Days:** Shift focus to fiber-rich vegetables and protein; reduce carb portions.
+* **Caloric Deficit:** Maintain a moderate deficit of **300–500 kcal per day**. 
+* **Protein Intake:** Target **140g – 155g** (approx. 1.8g - 2.0g per kg) daily to protect muscle mass and ensure satiety.
+* **Carbohydrate Periodization:** * **HIT/MIT Days:** High carb intake to fuel intervals and prevent "bonking".
+    * **LIT/Rest Days:** Low carb intake to maximize fat oxidation and adhere to caloric deficit.
 
 ### 5.3.2. Satiety & Habits
-* **Volume Eating:** Fill half your plate with low-calorie vegetables (broccoli, spinach, zucchini) to increase physical fullness without adding many calories.
-* **Daily Hydration:** Drink at least **30ml of water per kg of body weight** daily as a baseline. Often, the body confuses thirst for hunger.
+* **Volume Eating:** Fill 50% of your plate with low-calorie vegetables (broccoli, spinach, zucchini, tomatoes).
+* **Daily Hydration:** Drink at least **2.5L of water** (30ml/kg) daily, excluding on-bike hydration.
+* **Sleep:** 7–9 hours to regulate hunger hormones (ghrelin/leptin) and support recovery.
 
+### 5.3.3. Practical Meal Application (Portion Guide for 77.5kg)
+*Adjust portions based on the training stimulus of the day to maintain weight loss trajectory.*
+
+| Food Item | HIT / MIT Days (High Carb) | LIT / Rest Days (Low Carb) | Protein / Notes |
+| :--- | :--- | :--- | :--- |
+| **Oatmeal (Breakfast)** | **80–90g** (dry weight) | **40–50g** (dry weight) | Add 200g Skyr or 30g Whey + berries. |
+| **Potatoes (Boiled)** | **450–500g** | **250–300g** | Best for satiety. Add 200g lean meat. |
+| **Rice (Dry weight)** | **90–100g** | **50g** | Fast fuel. Add 200g lean meat + 250g veg. |
+| **Sourdough Bread** | **90–100g** (approx. 3 slices) | **70–80g** (2 slices) | Avoid butter. Use cottage cheese/eggs/lean ham. |
+
+**Key Rules for Meals:**
+1. **The 50% Rule:** Half the plate should always be vegetables (especially during Potato/Rice meals).
+2. **Protein First:** Every meal must contain a solid protein source before you touch the carbs.
+3. **No Liquid Calories Off-Bike:** Stick to water, coffee, or tea. Save the sugar (Mix/Gels) strictly for training.
 ---
 
 # 6. Long-Term Performance Roadmap
