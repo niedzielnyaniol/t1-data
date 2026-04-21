@@ -146,7 +146,9 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 
 # 5. Nutrition / Fueling
 
-### Training Fuel Recipe (1:0.8 Ratio)
+## 5.1. Training Fuel & On-Bike Strategy
+
+### 5.1.1. Training Fuel Recipe (1:0.8 Ratio)
 *Optimized for high absorption and gut comfort.*
 
 - **Homemade Mix (approx. 33g CHO):** 18.6g Maltodextrin, 15.0g Fructose, 0.8g Citric Acid, 0.6g Salt.
@@ -154,7 +156,7 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 - **Powerbar PowerGel Strawberry:** 26g CHO, 0.5g Sodium/Salt per gel.
 - **Equipment:** Bottle set (2x 710ml and 2x 950ml).
 
-### Fueling by Workout Type (Weight Loss Focus)
+### 5.1.2. Fueling by Workout Type (Weight Loss Focus)
 | Workout Type | Duration | CHO Target | Setup |
 | :--- | :--- | :--- | :--- |
 | **Recovery / Z1–Z2** | < 1.5 h | 0 g/h | Water + Zero-calorie Electrolyte tabs |
@@ -164,7 +166,7 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 
 **Hydration Target:** 500–750 ml per hour (adjust based on sweat rate).
 
-### Post-Ride Recovery
+## 5.2. Post-Ride Recovery Strategy
 *Focus on satiety and real food to support weight loss. Avoid drinking calories when unnecessary.*
 
 | Ride Duration | Intensity | Recovery Strategy |
@@ -175,7 +177,21 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 | **> 3h** | Any | 4:1 Recovery Shake (0.5g Carb/kg) followed by a solid meal. |
 
 **Key Principles:**
-* **Real Food First:** Prioritize solid meals over shakes to stay full longer.
+* **Real Food First:** Prioritize solid meals over shakes to stay full longer. 
+* **The "10-minute window" is a myth:** Aim to eat within 30–90 minutes post-ride.
+
+## 5.3. Daily Nutrition (Off-Bike) & Weight Loss Principles
+*Fundamental principles for sustainable weight loss and athletic performance.*
+
+### 5.3.1. Energy Balance & Macronutrients
+* **Caloric Deficit:** Maintain a moderate deficit of **300–500 kcal per day**. Excessive deficits lead to muscle loss and poor recovery.
+* **Protein Intake:** Target **1.6 to 2.0g of protein per kg of body weight** daily. This protects muscle mass and keeps you satiated.
+* **Carbohydrate Periodization:** * **High-Intensity Days:** Center your meals around complex carbs (rice, potatoes, oats).
+    * **Rest/Low-Intensity Days:** Shift focus to fiber-rich vegetables and protein; reduce carb portions.
+
+### 5.3.2. Satiety & Habits
+* **Volume Eating:** Fill half your plate with low-calorie vegetables (broccoli, spinach, zucchini) to increase physical fullness without adding many calories.
+* **Daily Hydration:** Drink at least **30ml of water per kg of body weight** daily as a baseline. Often, the body confuses thirst for hunger.
 
 ---
 
