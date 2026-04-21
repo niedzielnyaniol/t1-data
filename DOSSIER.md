@@ -204,6 +204,24 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 | **Rice (Dry weight)** | **90–100g** | **50g** | Fast fuel. Add 200g lean meat + 250g veg. |
 | **Sourdough Bread** | **90–100g** (approx. 3 slices) | **70–80g** (2 slices) | Avoid butter. Use cottage cheese/eggs/lean ham. |
 
+### 5.3.4. Meal Timing Strategies (Morning vs. Evening Workouts)
+*How to distribute your daily portions (from 5.3.3) based on when you ride.*
+
+#### Scenario A: Evening Workout (19:00 - 20:00)
+*Challenge: Fueling the ride without eating a massive, heavy meal right before bed.*
+* **Breakfast (07:00 - 08:00):** Normal Oatmeal portion + Protein.
+* **Lunch (13:00 - 14:00):** This becomes your BIGGEST carbohydrate meal of the day. Eat your main portion of Potatoes or Rice here. This fills your glycogen stores for the evening.
+* **Pre-Ride Snack (17:30 - 18:00):** Do not eat a large meal here. Have a light carb top-up (e.g., 1 slice of Sourdough with jam/honey, or a large banana).
+* **During Ride (19:00 - 20:30):** Fuel strictly according to the 5.1.2 table. DO NOT skip on-bike carbs to "save calories." If you do, you will be ravenous after the ride.
+* **Post-Ride Dinner (21:00+):** Keep it light and focused on protein to aid sleep. Sourdough Bread with cottage cheese/lean ham, or Skyr with a small handful of berries. Avoid volumetric foods (like 500g of potatoes) right before sleeping.
+
+#### Scenario B: Morning Workout (Weekend Long Ride, 08:00 - 09:00)
+*Challenge: Restoring liver glycogen after a night of fasting without causing gastrointestinal distress.*
+* **Pre-Ride Breakfast (1-2 hours before):** Fast-digesting carbs. Use a smaller portion of your Oatmeal (e.g., 40-50g) with less protein/fat (save the heavy whey or nuts for later) to digest quickly, OR use Sourdough bread with honey.
+* **During Ride:** Fuel according to the 5.1.2 table (crucial for long weekend rides). Start drinking your Mix early.
+* **Post-Ride Lunch (13:00 - 14:00):** This is your main recovery window. Eat your largest, most volumetric meal here (Potatoes/Rice + large portion of Meat + Veggies). 
+* **Dinner (19:00):** Taper down the carbs. Focus heavily on Protein and Vegetables (e.g., a large salad with chicken, or Sourdough with eggs). You don't need massive glycogen replenishment to go to sleep on a Rest Day eve.
+
 **Key Rules for Meals:**
 1. **The 50% Rule:** Half the plate should always be vegetables (especially during Potato/Rice meals).
 2. **Protein First:** Every meal must contain a solid protein source before you touch the carbs.
