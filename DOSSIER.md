@@ -25,6 +25,7 @@ end of season: 10.2026
 | Goal | Target Date |
 |------|-------------|
 | [Primary goal] | 4.2-4.3 W/Kg in 2026 as a result of FTP test (test protocol 5min all out + 10min z1/z2 + 20 min all out) FTP calculated as result of 20 min all out - 5% |
+| [Secondary goal] | Good preparation for:  J-labs Gołcza Race - wyścig PRIO A |
 | [Secondary goal] | Good preparation for: Tatra Road Race - Dystans HARD - wyścig PRIO A |
 
 ---
@@ -56,6 +57,7 @@ end of season: 10.2026
 |--------|---------|
 | Indoor | Inside with Vacmaster Air Mover Cardio54 fan and window |
 | Outdoor | Kraków |
+| Camp | 05.05 - 02.06.2026:  High temperature, high altitude, continuous climbs. Strict thermoregulation required. |
 
 ---
 
@@ -194,18 +196,7 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 * **Daily Hydration:** Drink at least **2.5L of water** (30ml/kg) daily, excluding on-bike hydration.
 * **Sleep:** 7–9 hours to regulate hunger hormones (ghrelin/leptin) and support recovery.
 
-### 5.3.3. Practical Meal Application (Portion Guide for 77.5kg)
-*Adjust portions based on the training stimulus of the day to maintain weight loss trajectory.*
-
-| Food Item | HIT / MIT Days (High Carb) | LIT / Rest Days (Low Carb) | Protein / Notes |
-| :--- | :--- | :--- | :--- |
-| **Oatmeal (Breakfast)** | **80–90g** (dry weight) | **40–50g** (dry weight) | Add 200g Skyr or 30g Whey + berries. |
-| **Potatoes (Boiled)** | **450–500g** | **250–300g** | Best for satiety. Add 200g lean meat. |
-| **Rice (Dry weight)** | **90–100g** | **50g** | Fast fuel. Add 200g lean meat + 250g veg. |
-| **Sourdough Bread** | **90–100g** (approx. 3 slices) | **70–80g** (2 slices) | Avoid butter. Use cottage cheese/eggs/lean ham. |
-
-### 5.3.4. Meal Timing Strategies (Morning vs. Evening Workouts)
-*How to distribute your daily portions (from 5.3.3) based on when you ride.*
+### 5.3.3. Meal Timing Strategies (Morning vs. Evening Workouts)
 
 #### Scenario A: Evening Workout (19:00 - 20:00)
 *Challenge: Fueling the ride without eating a massive, heavy meal right before bed.*
@@ -230,36 +221,22 @@ Stosowane w blokach LIT i MIT, aby zapobiec regresji pułapu tlenowego VO2 max p
 
 # 6. Long-Term Performance Roadmap
 
-**WAŻNE OGRANICZENIE:** 26-29 marca wyjazd do Szwajcarii (brak treningu). Od 19 maja do 4 czerwca 2026 całkowity brak możliwości jazdy na rowerze. Wyścig docelowy (A) J-labs Gołcza Race: 20 czerwca 2026.
-
-### Scheduled Training Races (MyWhoosh, Priority C)
-Wtorkowe wyścigi w marcu są traktowane w 100% jako jednostki treningowe wplatane w bieżący makrocykl.
-* **10 Marzec:** Octopus Loop (13.9km / ITT / ok. 20 min). *Bodziec: Z4/Z5. Wypada w trakcie bloku HIT.*
-* **17 Marzec:** Hudayriyat Ascend (28.2km / Scratch / ok. 45 min). *Bodziec: Stochastyczne Z5/Z6. Zastępuje sesję HIT w bloku VO2max.*
-* **24 Marzec:** Alto del Aguila (13.1km / Hill Climb / ok. 30 min). *Bodziec: SS/Z4 z wejściami w Z5. Zastępuje sesję HIT przed wylotem do Szwajcarii.*
-* **31 Marzec:** Secret stage (Points Race / ok. 45-60 min). *Bodziec: Szarpane powtarzalne sprinty. Wypada na początku bloku LIT – traktować jako aktywację sprinterską wpisaną w blok objętości.*
-
 ### Road Map
 
-Zastosowano model **Block Periodization** oparty o badania naukowe nad elitarnymi kolarzami oraz zoptymalizowany taper/crash block pod specyfikę urlopu.
-
-| Data (2026) | Faza / Typ Bloku | Obciążenie (Microcycle) | Key Metrics / Działanie |
+| Date (2026) | Phase / Block Type | Load (Microcycle) | Key Metrics / Action |
 |-------------|------------------|-------------------------|-------------------------|
-| **9 - 25 Mar** | **Blok HIT (VO2max)** | Bardzo Wysokie (2.5 tyg.) | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
-| **26 - 29 Mar** | **URLOP (Szwajcaria)** | ZERO (4 dni) | Wymuszona regeneracja i przerwa od roweru. Zastępuje zaplanowany Deload i wywołuje superkompensację. |
-| **30 Mar - 6 Kwi** | **Blok HIT** | Bardzo Wysokie (1 tyg.) | Kontynuacja bloku HIT sprzed urlopu. Po krótkim deload wkraczamy w ostatni tydzień przebijania sufitu |
-| **6 Kwi - 12 Kwi** | **Blok LIT** | Niskie (1 tyg.) | Superkompensacja po 3 tygodniach HIT. Baza Z2 z wplecionymi sprintami (Z7). **[W tygodniu:]** 4-5 sesji Z1/Z2 (w tym 1-2x sprinty) + 1 sesja HIT (Z5). |
-| **13 Kwi - 3 Maj** | **Blok MIT (Threshold)** | Wysokie (3 tyg.) | Przyspieszony start fazy budowy FTP. **[W tygodniu:]** 2 sesje over-under/Z4 + 1 sesja HIT (Z5) + 2-3 sesje Z1. |
-| **4 Maj - 18 Maj** | **Blok HIT** | Wysokie | Przełamanie sufitu tlenowego. Silna polaryzacja. **[W tygodniu:]** 2-3 sesje HIT (Z5/Z6) + 2-3 sesje Z1/Z2. |
-| **19 Maj - 4 Cze** | **URLOP (Forced Rest)** | ZERO (16 dni) | 16 dni na zrzucenie obciążeń i głęboką superkompensację po dwutygodniowym przetrenowaniu. |
-| **5 - 11 Cze** | **Reaktywacja (LIT+Sprint)** | Niskie/Średnie | Odbudowa objętości osocza i czucia mięśniowego. Długie jazdy Z1/Z2 przeplatane wyłącznie 15-30 sekundowymi maksymalnymi sprintami (Z7). Zero pracy w strefach Z3-Z6, aby nie generować kwasu mlekowego. |
-| **20 Czerwca** | **WYŚCIG (Cel C)** | Wysokie | J-labs Gołcza Race. Start treningowy "z marszu". Traktowany jako najcięższa jednostka uderzeniowa kończąca blok reaktywacji, przepalająca układ beztlenowy i nerwowy. Brak taperingu przed startem. |
-| **12 Cze - 26 Lip** | MIT | Średnie | Podnoszenie progu mleczanowego od dołu. Dominacja stref Threshold oraz formatu over-under (88-100% FTP). Budowa odporności na zmęczenie (Durability) pod ciężkie interwały w sierpniu. |
-| **4 Lipca** | **WYŚCIG (Cel B)** | Wysokie | Bukowaina tatrzańska ze startu wspólnego 60KM. Start treningowy z 2 dniowym taperingiem. Traktowany jako najcięższa jednostka uderzeniowa na początku bloku MIT |
-| 27 Lip - 23 Sie |	Faza 3: Szczytowanie (HIT) |	Ekstremalne (4 tyg) |	Prawdziwe uderzenie w pułap VO2max (Z5). Ekstremalnie ciężkie sesje interwałowe mające na celu przełamanie sufitu tlenowego |
-| 24 Sie - 4 Wrz |	Faza 4: Tapering	| Niskie (1.5 tyg) |	Ostre cięcie objętości (TSS) o 40-50% przy utrzymaniu intensywności (krótkie wejścia w tempo wyścigowe). Zrzucanie zmęczenia krótkoterminowego (ATL) i potężne podbijanie świeżości (TSB). |
-| 5 Wrz |	WYŚCIG Tatra road race dystans HARD (Cel A) |	MAXIMUM | Cel: 4.3+ W/kg. Pełna gotowość fizjologiczna układu krążenia i układu nerwowego. |
-
+| **6 Apr - 12 Apr** | **LIT Block** | Low (1 wk) | Supercompensation after 3 weeks of HIT. Z2 base with interspersed sprints (Z7). **[Weekly:]** 4-5 Z1/Z2 sessions (including 1-2x sprints) + 1 HIT session (Z5). |
+| **13 Apr - 3 May** | **MIT Block (Threshold)** | High (3 wks) | Accelerated start of the FTP building phase. **[Weekly:]** 2 over-under/Z4 sessions + 1 HIT session (Z5) + 2-3 Z1 sessions. |
+| **4 May - 10 May** | **LIT Block (Deload)** | Low (1 wk) | Shedding accumulated fatigue (ATL) after the MIT block. Physiological preparation for the extreme loads of the peaking phase. |
+| **11 May - 7 Jun** | **Phase 1: Peaking (HIT)** | Extreme (4 wks) | Direct preparation for Gołcza Race. Extremely hard VO2max interval sessions (Z5). The goal is to induce maximum adaptive stress before tapering. Strict ban on stochastic micro-intervals (e.g., 40:20). Use ONLY long, continuous intervals (Seiler format): 4x8 min or 5x6 min in Z5 (106-115% FTP) on stable climbs. |
+| **8 Jun - 19 Jun** | **Phase 2: Tapering** | Low (1.5 wks) | Sharp volume cut (TSS) by 40-50% while maintaining intensity (short efforts at race pace). Shedding short-term fatigue (ATL) and massively boosting freshness (TSB). |
+| **20 Jun** | **RACE J-labs Gołcza Race (Priority A)** | MAXIMUM | Full physiological readiness of the cardiovascular and nervous systems. Peak form for the first half of the season. |
+| **21 Jun - 28 Jun** | **Active Recovery / LIT** | Very Low (1 wk) | Active recovery after the target race. Flushing out central fatigue. Exclusively Z1 rides. |
+| **29 Jun - 26 Jul** | **MIT Block (Threshold)** | Medium / High | Rebuilding muscular endurance (Durability) for heavy intervals in August. A training race is integrated into this block. |
+| **4 Jul** | **RACE (Priority B)** | High | Bukowina Tatrzańska 60km road race. Training race to maintain race specificity during the MIT block. |
+| **27 Jul - 23 Aug** | **Phase 3: Peaking (HIT)** | Extreme (4 wks) | True hit on the VO2max ceiling (Z5) before the main start of the season. |
+| **24 Aug - 4 Sep** | **Phase 4: Tapering** | Low (1.5 wks) | Sharp volume cut by 40-50%. Boosting TSB. |
+| **5 Sep** | **RACE Tatra Road Race HARD distance (Priority A)** | MAXIMUM | Season goal: 4.2-4.3+ W/kg. |
 ---
 
 # 7. Data Mirror Configuration
