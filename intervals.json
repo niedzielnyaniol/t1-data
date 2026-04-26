@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:02:09.691607",
+  "generated_at": "2026-04-26T08:00:17.008936",
   "version": "3.98",
   "script_hash": "02e4f2d6c77c",
   "scan_hours": 72,
@@ -874,6 +874,72 @@
           "zone": 2,
           "training_load": 11.125562,
           "decoupling": 1.3038678
+        }
+      ]
+    },
+    {
+      "activity_id": "i142933973",
+      "date": "2026-04-25",
+      "type": "VirtualRide",
+      "name": "TH-1 Classic Threshold Blocks",
+      "interval_summary": [
+        "1x 24m36s 181w",
+        "1x 47m1s 240w",
+        "1x 2m36s 213w",
+        "1x 17m10s 204w"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1476s@181w92rpm",
+          "duration_secs": 1476,
+          "avg_power": 181,
+          "max_power": 358,
+          "avg_hr": 128,
+          "max_hr": 156,
+          "avg_cadence": 92.41593,
+          "zone": 2,
+          "training_load": 17.273565,
+          "decoupling": -0.44323555
+        },
+        {
+          "type": "WORK",
+          "label": "2821s@240w91rpm",
+          "duration_secs": 2821,
+          "avg_power": 240,
+          "max_power": 390,
+          "avg_hr": 156,
+          "max_hr": 171,
+          "avg_cadence": 90.96974,
+          "zone": 3,
+          "training_load": 59.61843,
+          "decoupling": 1.830816
+        },
+        {
+          "type": "WORK",
+          "label": "156s@213w75rpm",
+          "duration_secs": 156,
+          "avg_power": 213,
+          "max_power": 342,
+          "avg_hr": 167,
+          "max_hr": 169,
+          "avg_cadence": 75.03871,
+          "zone": 2,
+          "training_load": 2.8078246,
+          "decoupling": 2.0142508
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@204w89rpm",
+          "duration_secs": 1030,
+          "avg_power": 204,
+          "max_power": 383,
+          "avg_hr": 147,
+          "max_hr": 171,
+          "avg_cadence": 89.20445,
+          "zone": 2,
+          "training_load": 16.665804,
+          "decoupling": 21.737234
         }
       ]
     }
