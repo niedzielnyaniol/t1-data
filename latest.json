@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-27T06:22:03.085273",
+    "last_updated": "2026-04-27T06:47:23.144281",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.98"
@@ -81,10 +81,10 @@
     "priority": 3,
     "signals": {
       "hrv": {
-        "status": "unavailable",
-        "value": null,
-        "baseline_7d": 91.7,
-        "delta_pct": null
+        "status": "green",
+        "value": 97.0,
+        "baseline_7d": 92.4,
+        "delta_pct": 5.0
       },
       "rhr": {
         "status": "green",
@@ -102,9 +102,9 @@
         "value": 0.98
       },
       "ri": {
-        "status": "unavailable",
-        "value": null,
-        "value_yesterday": 0.96
+        "status": "green",
+        "value": 1.05,
+        "value_yesterday": 0.95
       },
       "tsb": {
         "status": "green",
@@ -112,10 +112,10 @@
       }
     },
     "signal_summary": {
-      "green": 4,
+      "green": 6,
       "amber": 0,
       "red": 0,
-      "unavailable": 2
+      "unavailable": 0
     },
     "phase_context": {
       "phase": "Build",
@@ -125,7 +125,7 @@
     },
     "race_week_defers": false,
     "modification": null,
-    "reason": "P3 green light. 4 green, 0 amber (threshold 3), 0 red.",
+    "reason": "P3 green light. 6 green, 0 amber (threshold 3), 0 red.",
     "alarm_refs": []
   },
   "history": {
@@ -207,7 +207,7 @@
     "current_metrics": {
       "weight_kg": 77.5,
       "resting_hr": 43,
-      "hrv": null,
+      "hrv": 97.0,
       "sleep_quality": 2,
       "sleep_hours": 7.25,
       "sleep_formatted": "7h15m",
@@ -240,13 +240,13 @@
     }
   },
   "derived_metrics": {
-    "recovery_index": null,
-    "recovery_index_yesterday": 0.96,
-    "hrv_baseline_7d": 91.7,
+    "recovery_index": 1.05,
+    "recovery_index_yesterday": 0.95,
+    "hrv_baseline_7d": 92.4,
     "rhr_baseline_7d": 42.9,
-    "hrv_baseline_28d": 93.6,
+    "hrv_baseline_28d": 93.8,
     "rhr_baseline_28d": 42.3,
-    "latest_hrv": null,
+    "latest_hrv": 97.0,
     "latest_rhr": 43,
     "acwr": 0.98,
     "acwr_interpretation": "optimal",
@@ -259,7 +259,7 @@
     "multi_sport_detected": false,
     "strain": 824.0,
     "stress_tolerance": 4.6,
-    "load_recovery_ratio": null,
+    "load_recovery_ratio": 4.4,
     "tss_7d_total": 463.0,
     "tss_28d_total": 1896.0,
     "zone_distribution_7d": {
@@ -572,11 +572,11 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 0.33,
-          "hard_sessions_planned": 1,
+          "planned_tss_delta": 1.42,
+          "hard_sessions_planned": 4,
           "race_proximity": 54,
           "next_week_load": null,
-          "plan_coverage_current_week": 0.4,
+          "plan_coverage_current_week": 1.4,
           "plan_coverage_next_week": 0.4
         },
         "data_quality": "good",
@@ -610,9 +610,9 @@
     "p_max": 1149,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-27T06:22:02.593253",
+    "calculation_timestamp": "2026-04-27T06:47:23.142936",
     "data_quality": {
-      "hrv_data_points": 6,
+      "hrv_data_points": 7,
       "rhr_data_points": 7,
       "activities_7d": 6,
       "activities_28d": 23,
@@ -2106,7 +2106,7 @@
       "date": "2026-04-27",
       "weight_kg": null,
       "resting_hr": 43,
-      "hrv_rmssd": null,
+      "hrv_rmssd": 97.0,
       "hrv_sdnn": null,
       "sleep_hours": 7.25,
       "sleep_formatted": "7h15m",
@@ -2170,6 +2170,73 @@
       "description": "Warm-up\n-  Press lap 15m of easy riding at 56-75% 69-83%HR\n\nFast pedaling 3x\n- 1m <80% <90%HR\n- 1m RI at Z1\n\nEasy Riding\n-  Press lap 3m <68% <75%HR\n\nMain set\n- 5m all out at max 132%\n\n-10m Z2\n\nTT test\n- 20m 108%\n\nCool down\n- 15m 56-75% 69-83%HR\n\nAfter warming up, begin three 1-minute fast pedaling efforts, resting for 1 minute after eachone. Then ride for 3 minutes easy. Next, do a 5-minute all-out effort, followed by 10 minutes at an easy pace. The next set of intervals will test your aerobic capacity. Do two 1-minute efforts with 5 minutes between them. Ride for 5 minutes easy. The third set of intervals will test neuromuscular power. Do three 20-second \u201csuper jumps.\u201d Jump hard out of the saddle and sprint for the full 20 seconds. Rest for 3 minutes after each sprint, and after the final sprint pedal easy for 10 minutes. Finally, complete a 20-minute time trial. Cool down.\n\nAllen, Hunter; Coggan, Andrew R.; McGregor, Stephen. Training and Racing with a Power Meter: Third Edition (p. 533). (Function). Kindle Edition."
     },
     {
+      "id": 106764741,
+      "date": "2026-04-29",
+      "name": "Recovery",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 18,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "-45m Z1"
+    },
+    {
+      "id": 106766876,
+      "date": "2026-04-30",
+      "name": "Over-Unders (SS-3)",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 78,
+      "duration_hours": 1.22,
+      "duration_formatted": "1h13m",
+      "workout_summary": "10m @176W | 3\u00d71m @250W / 1m rec | 5m @147W | 3\u00d72m @280W / 1m rec | 5m @147W | 3\u00d72m @280W / 1m rec | 5m @147W | 3\u00d72m @280W / 1m rec | 5m @147W | 10m @154W",
+      "has_terrain": false,
+      "start_time": "19:30",
+      "indoor": true,
+      "description": "Warmup\n- 10m ramp 50-70%\n\n3x\n  - 1m 85%\n  - 1m 50%\n- 5m 50%\n\nMain set\n\n3x\n- 2m 95%\n- 1m 105%\n\n - 5m 45-55%\n\n3x\n- 2m 95%\n- 1m 105%\n\n  - 5m 45-55%\n\n3x\n- 2m 95%\n- 1m 105%\n\n  - 5m 45-55%\n\nCooldown\n- 10m ramp 60-45%"
+    },
+    {
+      "id": 106767240,
+      "date": "2026-05-01",
+      "name": "VO2-4 Ascending Duration",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 69,
+      "duration_hours": 1.02,
+      "duration_formatted": "1h1m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- 20m WU-PROG: ramp 50-75%\n- 2m 115%\n- 3m 50%\n- 3m 115%\n- 3m 50%\n- 4m 115%\n- 3m 50%\n- 3m 115%\n- 3m 50%\n- 2m 115%\n- 15m 50%"
+    },
+    {
+      "id": 106767594,
+      "date": "2026-05-02",
+      "name": "Endurance",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 63,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- 90m 65%"
+    },
+    {
+      "id": 106767373,
+      "date": "2026-05-03",
+      "name": "TH-1 Classic Threshold Blocks (2x20)",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 108,
+      "duration_hours": 1.52,
+      "duration_formatted": "1h31m",
+      "workout_summary": "20m @194W | 2\u00d720m @310W / 8m rec | 15m @178W",
+      "has_terrain": false,
+      "description": "- 20m WU-PROG: ramp 50-75%\n\n2x\n  - 20m 100%\n  - 8m 50%\n\n- 15m ramp 65-50%"
+    },
+    {
       "id": 106196643,
       "date": "2026-05-04",
       "name": "LIT",
@@ -2223,19 +2290,19 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 1,
-    "success": 1,
-    "patternA": 1,
+    "attempted": 6,
+    "success": 3,
+    "patternA": 3,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 0
+    "bail_no_match": 3
   },
   "weekly_summary": {
     "total_training_hours": 7.99,
     "total_training_formatted": "7h59m",
     "total_tss": 463,
     "activities_count": 6,
-    "avg_hrv": 91.7,
+    "avg_hrv": 92.4,
     "avg_resting_hr": 42.9
   },
   "race_calendar": {
