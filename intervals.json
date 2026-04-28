@@ -1,48 +1,10 @@
 {
-  "generated_at": "2026-04-27T06:47:23.144064",
+  "generated_at": "2026-04-28T06:22:37.664865",
   "version": "3.98",
   "script_hash": "02e4f2d6c77c",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i141206042",
-      "date": "2026-04-19",
-      "type": "Ride",
-      "name": "Long Endurance Z2 (AE-2)",
-      "interval_summary": [
-        "1x 1h47m 211w",
-        "1x 10m29s 175w"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "6457s@211w85rpm",
-          "duration_secs": 6457,
-          "avg_power": 211,
-          "max_power": 596,
-          "avg_hr": 138,
-          "max_hr": 150,
-          "avg_cadence": 85.30268,
-          "zone": 2,
-          "training_load": 85.42074,
-          "decoupling": -3.1322498
-        },
-        {
-          "type": "WORK",
-          "label": "629s@175w82rpm",
-          "duration_secs": 629,
-          "avg_power": 175,
-          "max_power": 357,
-          "avg_hr": 128,
-          "max_hr": 142,
-          "avg_cadence": 81.6089,
-          "zone": 2,
-          "training_load": 6.29,
-          "decoupling": 10.673074
-        }
-      ]
-    },
     {
       "activity_id": "i141852037",
       "date": "2026-04-21",
